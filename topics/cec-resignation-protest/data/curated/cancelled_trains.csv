@@ -1,0 +1,42 @@
+train_no,train_name,origin_name,origin_code,coord_code,dest_code,dep_date,sched_arrival_10oct,zone,category,source_count,sources
+12309,Rajendra Nagar Tejas Rajdhani,Rajendra Nagar Terminal (Patna),RJPB,RJPB,NDLS,2026-10-09,07:40,ECR,cancelled_at_source,3,AajTak;AmarUjala;ETV-Bihar
+12393,Sampoorna Kranti Express,Rajendra Nagar Terminal (Patna),RJPB,RJPB,NDLS,2026-10-09,07:55,ECR,cancelled_at_source,2,AajTak;AmarUjala
+20801,Magadh Express,Islampur,IPR,IPR,NDLS,2026-10-09,12:00,ECR,cancelled_at_source,2,AajTak;AmarUjala
+22361,Rajendra Nagar Amrit Bharat Express,Rajendra Nagar Terminal (Patna),RJPB,RJPB,NDLS,2026-10-09,13:10,ECR,cancelled_at_source,2,AajTak;AmarUjala
+12559,Shivganga Express,Banaras,BSBS,BSB,NDLS,2026-10-09,08:30,NER,cancelled_at_source,2,AajTak;AmarUjala
+12581,Banaras-New Delhi Superfast,Banaras,BSBS,BSB,NDLS,2026-10-09,09:45,NER,cancelled_at_source,2,AajTak;AmarUjala
+12301,Howrah-New Delhi Rajdhani,Howrah,HWH,HWH,NDLS,2026-10-09,,ER,cancelled_at_source,4,AajTak;Zee;TimesNowHindi;Quint
+12313,Sealdah-New Delhi Rajdhani,Sealdah,SDAH,SDAH,NDLS,2026-10-09,,ER,cancelled_at_source,4,AajTak;Zee;Quint;BusinessToday
+12877,Ranchi-New Delhi Garib Rath,Ranchi,RNC,RNC,NDLS,2026-10-09,,SER,cancelled_at_source,2,TimesNowHindi;News24(snippet)
+22221,CSMT-Hazrat Nizamuddin Rajdhani,Mumbai CSMT,CSMT,CSTM,NZM,2026-10-09,,CR,cancelled_at_source,4,Zee;TimesNowHindi;BusinessToday;PeoplesUpdate
+12033,Kanpur-New Delhi Shatabdi,Kanpur Central,CNB,CNB,NDLS,2026-10-10,,NCR,cancelled_at_source,4,AmarUjala;PrabhatKhabar;Oneindia;DeccanHerald
+12417,Prayagraj Express,Prayagraj Jn,PRYJ,ALD,NDLS,2026-10-09,,NCR,cancelled_at_source,2,AmarUjala;PrabhatKhabar
+12275,Prayagraj-New Delhi Humsafar,Prayagraj Jn,PRYJ,ALD,NDLS,2026-10-09,,NCR,cancelled_at_source,2,AmarUjala;DeccanHerald
+12451,Shramshakti Express,Kanpur Central,CNB,CNB,NDLS,2026-10-09,,NCR,cancelled_at_source,2,AmarUjala;PrabhatKhabar
+12447,UP Sampark Kranti,Manikpur Jn,MKP,MKP,NZM,2026-10-09,,NCR,cancelled_at_source,2,AmarUjala;PrabhatKhabar
+14211,Agra Cantt-New Delhi Intercity,Agra Cantt,AGC,AGC,NDLS,2026-10-10,,NCR,cancelled_at_source,2,AmarUjala;PrabhatKhabar
+15303,Kasganj-New Delhi Express,Kasganj,KSJ,KSJ,NDLS,2026-10-10,,NR,cancelled_at_source,2,AmarUjala;Khabarwala24
+82501,Lucknow-New Delhi Tejas,Lucknow Jn,LJN,LJN,NDLS,2026-10-10,,NR,cancelled_at_source,1,AmarUjala
+12229,Lucknow Mail,Lucknow Charbagh,LKO,LKO,NDLS,2026-10-09,,NR,cancelled_at_source,2,AmarUjala;Khabarwala24
+12429,Lucknow-New Delhi AC Superfast,Lucknow Charbagh,LKO,LKO,NDLS,2026-10-09,,NR,cancelled_at_source,2,AmarUjala;TimesNowHindi
+12056,Dehradun-New Delhi Jan Shatabdi,Dehradun,DDN,DDN,NDLS,2026-10-10,,NR,cancelled_at_source,2,AmarUjala;TimesNowHindi
+12446,Uttar Sampark Kranti,Shri Mata Vaishno Devi Katra,SVDK,SVDK,NDLS,2026-10-09,,NR,cancelled_at_source,3,AmarUjala;ETV-JK;KashmirDespatch
+04082,Katra-New Delhi Special,Shri Mata Vaishno Devi Katra,SVDK,SVDK,NDLS,2026-10-09,,NR,cancelled_at_source,3,AmarUjala;ETV-JK;KashmirDespatch
+22462,Shri Shakti AC Express,Shri Mata Vaishno Devi Katra,SVDK,SVDK,NDLS,2026-10-09,,NR,cancelled_at_source,3,AmarUjala;ETV-JK;KashmirDespatch
+12426,Jammu Tawi-New Delhi Rajdhani,Jammu Tawi,JAT,JAT,NDLS,2026-10-09,,NR,cancelled_at_source,3,AmarUjala;ETV-JK;KashmirDespatch
+22181,Jabalpur-Hazrat Nizamuddin Superfast,Jabalpur,JBP,JBP,NZM,2026-10-09,,WCR,cancelled_at_source,3,AmarUjala;ETV-MP;PeoplesUpdate
+12189,Mahakaushal Express,Jabalpur,JBP,JBP,NZM,2026-10-09,,WCR,cancelled_at_source,2,AmarUjala;ETV-MP
+12121,MP Sampark Kranti,Jabalpur,JBP,JBP,NZM,2026-10-09,,WCR,cancelled_at_source,2,AmarUjala;ETV-MP
+12155,Shaan-e-Bhopal Express,Rani Kamlapati (Bhopal),RKMP,HBJ,NZM,2026-10-09,,WCR,cancelled_at_source,1,PeoplesUpdate
+12059,Kota-Hazrat Nizamuddin,Kota,KOTA,KOTA,NZM,2026-10-10,,WCR,cancelled_at_source,1,PeoplesUpdate
+12964,Mewar Express,Udaipur City,UDZ,UDZ,NZM,2026-10-09,,NWR,cancelled_at_source,3,AmarUjala;AajTak;PeoplesUpdate
+20155,Dr Ambedkar Nagar-New Delhi Express,Dr Ambedkar Nagar (Mhow),DADN,MHOW,NDLS,2026-10-09,,WR,cancelled_at_source,3,AmarUjala;FPJ-PTI;Patrika
+12415,Indore-New Delhi Express,Indore Jn,INDB,INDB,NDLS,2026-10-09,,WR,cancelled_at_source,3,AmarUjala;FPJ-PTI;Patrika
+09309,Indore-Hazrat Nizamuddin Special,Indore Jn,INDB,INDB,NZM,2026-10-09,,WR,cancelled_at_source,3,AmarUjala;FPJ-PTI;Patrika
+12247,Bandra Terminus-Hazrat Nizamuddin Yuva Express,Bandra Terminus,BDTS,BDTS,NZM,2026-10-09,,WR,cancelled_at_source,3,AmarUjala;FPJ-PTI;BharatNow
+12957,Swarna Jayanti Rajdhani,Sabarmati,SBIB,SBI,NDLS,2026-10-09,,WR,cancelled_at_source,2,AmarUjala;FPJ-PTI
+15308,Sirsa-Tilak Bridge Express,Sirsa,SSA,SSA,TKJ,2026-10-10,,NR,cancelled_at_source_tilak_bridge,2,AmarUjala;AajTak
+14727,Sri Ganganagar-Tilak Bridge Express,Sri Ganganagar,SGNR,SGNR,TKJ,2026-10-09,,NWR,cancelled_at_source_tilak_bridge,2,AmarUjala;AajTak
+14737,Bhiwani-Tilak Bridge Express,Bhiwani Jn,BNW,BNW,TKJ,2026-10-10,,NR,cancelled_at_source_tilak_bridge,2,AmarUjala;AajTak
+12951,Mumbai Central-New Delhi Rajdhani,Mumbai Central,MMCT,BCT,NDLS,2026-10-09,,WR,rescheduled_5h,3,FPJ-PTI;AmarUjala;Patrika
+12953,August Kranti Rajdhani,Mumbai Central,MMCT,BCT,NZM,2026-10-09,,WR,rescheduled_5h,3,FPJ-PTI;AmarUjala;Patrika

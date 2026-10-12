@@ -1,0 +1,837 @@
+train_no,position,label,type_key,etrain_title,css_kind,capacity
+12309,1,ENG,,Engine,rake-eng,
+12309,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12309,3,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12309,4,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12309,5,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12309,6,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12309,7,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12309,8,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12309,9,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12309,10,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12309,11,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12309,12,B10,3A_LHB,AC 3 Tier,rake-ac,72
+12309,13,B11,3A_LHB,AC 3 Tier,rake-ac,72
+12309,14,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12309,15,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12309,16,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12309,17,A4,2A_LHB,AC 2 Tier,rake-ac,54
+12309,18,A5,2A_LHB,AC 2 Tier,rake-ac,54
+12309,19,PC,,AC Hot Buffet,rake-pc,
+12309,20,H1,1A_LHB,AC First Class,rake-ac,24
+12309,21,H2,1A_LHB,AC First Class,rake-ac,24
+12309,22,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12393,1,ENG,,Engine,rake-eng,
+12393,2,HCP,,,rake-coach,
+12393,3,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12393,4,GN,,General,rake-gen,
+12393,5,GN,,General,rake-gen,
+12393,6,GN,,General,rake-gen,
+12393,7,S1,SL_LHB,Sleeper,rake-sl,80
+12393,8,S2,SL_LHB,Sleeper,rake-sl,80
+12393,9,S3,SL_LHB,Sleeper,rake-sl,80
+12393,10,S4,SL_LHB,Sleeper,rake-sl,80
+12393,11,S5,SL_LHB,Sleeper,rake-sl,80
+12393,12,S6,SL_LHB,Sleeper,rake-sl,80
+12393,13,PC,,AC Hot Buffet,rake-pc,
+12393,14,M1,3E,AC 3 Tier Economy,rake-ac,83
+12393,15,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12393,16,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12393,17,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12393,18,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12393,19,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12393,20,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12393,21,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12393,22,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12393,23,H1,1A_LHB,AC First Class,rake-ac,24
+12393,24,GRD,,General + Luggage + Brake,rake-grd,
+20801,1,ENG,,Engine,rake-eng,
+20801,2,GRD,,General + Luggage + Brake,rake-grd,
+20801,3,GN,,General,rake-gen,
+20801,4,GN,,General,rake-gen,
+20801,5,S1,SL_LHB,Sleeper,rake-sl,80
+20801,6,S2,SL_LHB,Sleeper,rake-sl,80
+20801,7,S3,SL_LHB,Sleeper,rake-sl,80
+20801,8,S4,SL_LHB,Sleeper,rake-sl,80
+20801,9,S5,SL_LHB,Sleeper,rake-sl,80
+20801,10,S6,SL_LHB,Sleeper,rake-sl,80
+20801,11,S7,SL_LHB,Sleeper,rake-sl,80
+20801,12,M1,3E,AC 3 Tier Economy,rake-ac,83
+20801,13,B1,3A_LHB,AC 3 Tier,rake-ac,72
+20801,14,B2,3A_LHB,AC 3 Tier,rake-ac,72
+20801,15,B3,3A_LHB,AC 3 Tier,rake-ac,72
+20801,16,B4,3A_LHB,AC 3 Tier,rake-ac,72
+20801,17,B5,3A_LHB,AC 3 Tier,rake-ac,72
+20801,18,B6,3A_LHB,AC 3 Tier,rake-ac,72
+20801,19,B7,3A_LHB,AC 3 Tier,rake-ac,72
+20801,20,A1,2A_LHB,AC 2 Tier,rake-ac,54
+20801,21,A2,2A_LHB,AC 2 Tier,rake-ac,54
+20801,22,H1,1A_LHB,AC First Class,rake-ac,24
+20801,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+22361,1,ENG,,Engine,rake-eng,
+22361,2,GRD,,General + Luggage + Brake,rake-grd,
+22361,3,GN,,General,rake-gen,
+22361,4,GN,,General,rake-gen,
+22361,5,GN,,General,rake-gen,
+22361,6,GN,,General,rake-gen,
+22361,7,GN,,General,rake-gen,
+22361,8,S1,SL_LHB,Sleeper,rake-sl,80
+22361,9,S2,SL_LHB,Sleeper,rake-sl,80
+22361,10,S3,SL_LHB,Sleeper,rake-sl,80
+22361,11,S4,SL_LHB,Sleeper,rake-sl,80
+22361,12,PC,,AC Hot Buffet,rake-pc,
+22361,13,S5,SL_LHB,Sleeper,rake-sl,80
+22361,14,S6,SL_LHB,Sleeper,rake-sl,80
+22361,15,S7,SL_LHB,Sleeper,rake-sl,80
+22361,16,S8,SL_LHB,Sleeper,rake-sl,80
+22361,17,GN,,General,rake-gen,
+22361,18,GN,,General,rake-gen,
+22361,19,GN,,General,rake-gen,
+22361,20,GN,,General,rake-gen,
+22361,21,GN,,General,rake-gen,
+22361,22,GN,,General,rake-gen,
+22361,23,GRD,,General + Luggage + Brake,rake-grd,
+22361,24,ENG,,Engine,rake-eng,
+12559,1,ENG,,Engine,rake-eng,
+12559,2,HCP,,,rake-coach,
+12559,3,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12559,4,GN,,General,rake-gen,
+12559,5,GN,,General,rake-gen,
+12559,6,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12559,7,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12559,8,H1,1A_LHB,AC First Class,rake-ac,24
+12559,9,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12559,10,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12559,11,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12559,12,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12559,13,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12559,14,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12559,15,M1,3E,AC 3 Tier Economy,rake-ac,83
+12559,16,M2,3E,AC 3 Tier Economy,rake-ac,83
+12559,17,S1,SL_LHB,Sleeper,rake-sl,80
+12559,18,S2,SL_LHB,Sleeper,rake-sl,80
+12559,19,S3,SL_LHB,Sleeper,rake-sl,80
+12559,20,S4,SL_LHB,Sleeper,rake-sl,80
+12559,21,S5,SL_LHB,Sleeper,rake-sl,80
+12559,22,GN,,General,rake-gen,
+12559,23,GN,,General,rake-gen,
+12559,24,GRD,,General + Luggage + Brake,rake-grd,
+12581,1,ENG,,Engine,rake-eng,
+12581,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12581,3,GN,,General,rake-gen,
+12581,4,GN,,General,rake-gen,
+12581,5,GN,,General,rake-gen,
+12581,6,GN,,General,rake-gen,
+12581,7,H1,1A_LHB,AC First Class,rake-ac,24
+12581,8,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12581,9,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12581,10,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12581,11,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12581,12,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12581,13,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12581,14,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12581,15,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12581,16,M1,3E,AC 3 Tier Economy,rake-ac,83
+12581,17,M2,3E,AC 3 Tier Economy,rake-ac,83
+12581,18,S1,SL_LHB,Sleeper,rake-sl,80
+12581,19,S2,SL_LHB,Sleeper,rake-sl,80
+12581,20,S3,SL_LHB,Sleeper,rake-sl,80
+12581,21,S4,SL_LHB,Sleeper,rake-sl,80
+12581,22,S5,SL_LHB,Sleeper,rake-sl,80
+12581,23,GRD,,General + Luggage + Brake,rake-grd,
+12301,1,ENG,,Engine,rake-eng,
+12301,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12301,3,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12301,4,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12301,5,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12301,6,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12301,7,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12301,8,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12301,9,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12301,10,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12301,11,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12301,12,B10,3A_LHB,AC 3 Tier,rake-ac,72
+12301,13,PC,,AC Hot Buffet,rake-pc,
+12301,14,H1,1A_LHB,AC First Class,rake-ac,24
+12301,15,H2,1A_LHB,AC First Class,rake-ac,24
+12301,16,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12301,17,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12301,18,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12301,19,A4,2A_LHB,AC 2 Tier,rake-ac,54
+12301,20,A5,2A_LHB,AC 2 Tier,rake-ac,54
+12301,21,A6,2A_LHB,AC 2 Tier,rake-ac,54
+12301,22,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12301,23,HCP,,,rake-coach,
+12313,1,ENG,,Engine,rake-eng,
+12313,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12313,3,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12313,4,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12313,5,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12313,6,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12313,7,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12313,8,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12313,9,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12313,10,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12313,11,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12313,12,B10,3A_LHB,AC 3 Tier,rake-ac,72
+12313,13,B11,3A_LHB,AC 3 Tier,rake-ac,72
+12313,14,B12,3A_LHB,AC 3 Tier,rake-ac,72
+12313,15,B13,3A_LHB,AC 3 Tier,rake-ac,72
+12313,16,B14,3A_LHB,AC 3 Tier,rake-ac,72
+12313,17,PC,,AC Hot Buffet,rake-pc,
+12313,18,H1,1A_LHB,AC First Class,rake-ac,24
+12313,19,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12313,20,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12313,21,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12313,22,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12877,1,ENG,,Engine,rake-eng,
+12877,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12877,3,G1,3E,AC 3 Tier Economy,rake-ac,83
+12877,4,G2,3E,AC 3 Tier Economy,rake-ac,83
+12877,5,G3,3E,AC 3 Tier Economy,rake-ac,83
+12877,6,G4,3E,AC 3 Tier Economy,rake-ac,83
+12877,7,G5,3E,AC 3 Tier Economy,rake-ac,83
+12877,8,G6,3E,AC 3 Tier Economy,rake-ac,83
+12877,9,G7,3E,AC 3 Tier Economy,rake-ac,83
+12877,10,G8,3E,AC 3 Tier Economy,rake-ac,83
+12877,11,G9,3E,AC 3 Tier Economy,rake-ac,83
+12877,12,G10,3E,AC 3 Tier Economy,rake-ac,83
+12877,13,G11,3E,AC 3 Tier Economy,rake-ac,83
+12877,14,G12,3E,AC 3 Tier Economy,rake-ac,83
+12877,15,G13,3E,AC 3 Tier Economy,rake-ac,83
+12877,16,G14,3E,AC 3 Tier Economy,rake-ac,83
+12877,17,G15,3E,AC 3 Tier Economy,rake-ac,83
+12877,18,G16,3E,AC 3 Tier Economy,rake-ac,83
+12877,19,G17,3E,AC 3 Tier Economy,rake-ac,83
+12877,20,G18,3E,AC 3 Tier Economy,rake-ac,83
+12877,21,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+22221,1,ENG,,Engine,rake-eng,
+22221,2,GRD,,General + Luggage + Brake,rake-grd,
+22221,3,B12,3A_LHB,AC 3 Tier,rake-ac,72
+22221,4,B11,3A_LHB,AC 3 Tier,rake-ac,72
+22221,5,B10,3A_LHB,AC 3 Tier,rake-ac,72
+22221,6,B9,3A_LHB,AC 3 Tier,rake-ac,72
+22221,7,B8,3A_LHB,AC 3 Tier,rake-ac,72
+22221,8,B7,3A_LHB,AC 3 Tier,rake-ac,72
+22221,9,B6,3A_LHB,AC 3 Tier,rake-ac,72
+22221,10,B5,3A_LHB,AC 3 Tier,rake-ac,72
+22221,11,B4,3A_LHB,AC 3 Tier,rake-ac,72
+22221,12,B3,3A_LHB,AC 3 Tier,rake-ac,72
+22221,13,B2,3A_LHB,AC 3 Tier,rake-ac,72
+22221,14,B1,3A_LHB,AC 3 Tier,rake-ac,72
+22221,15,PC,,AC Hot Buffet,rake-pc,
+22221,16,H1,1A_LHB,AC First Class,rake-ac,24
+22221,17,A1,2A_LHB,AC 2 Tier,rake-ac,54
+22221,18,A2,2A_LHB,AC 2 Tier,rake-ac,54
+22221,19,A3,2A_LHB,AC 2 Tier,rake-ac,54
+22221,20,A4,2A_LHB,AC 2 Tier,rake-ac,54
+22221,21,A5,2A_LHB,AC 2 Tier,rake-ac,54
+22221,22,GRD,,General + Luggage + Brake,rake-grd,
+12033,1,ENG,,Engine,rake-eng,
+12033,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12033,3,C1,CC_LHB,AC Chair Car,rake-cc,78
+12033,4,C2,CC_LHB,AC Chair Car,rake-cc,78
+12033,5,C3,CC_LHB,AC Chair Car,rake-cc,78
+12033,6,C4,CC_LHB,AC Chair Car,rake-cc,78
+12033,7,C5,CC_LHB,AC Chair Car,rake-cc,78
+12033,8,C6,CC_LHB,AC Chair Car,rake-cc,78
+12033,9,C7,CC_LHB,AC Chair Car,rake-cc,78
+12033,10,C8,CC_LHB,AC Chair Car,rake-cc,78
+12033,11,C9,CC_LHB,AC Chair Car,rake-cc,78
+12033,12,C10,CC_LHB,AC Chair Car,rake-cc,78
+12033,13,C11,CC_LHB,AC Chair Car,rake-cc,78
+12033,14,C12,CC_LHB,AC Chair Car,rake-cc,78
+12033,15,C13,CC_LHB,AC Chair Car,rake-cc,78
+12033,16,CE1,CC_LHB,AC Chair Car,rake-cc,78
+12033,17,E1,EC_LHB,AC Executive Chair Car,rake-ac,56
+12033,18,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12417,1,ENG,,Engine,rake-eng,
+12417,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12417,3,GN,,General,rake-gen,
+12417,4,GN,,General,rake-gen,
+12417,5,S1,SL_LHB,Sleeper,rake-sl,80
+12417,6,S2,SL_LHB,Sleeper,rake-sl,80
+12417,7,S3,SL_LHB,Sleeper,rake-sl,80
+12417,8,S4,SL_LHB,Sleeper,rake-sl,80
+12417,9,S5,SL_LHB,Sleeper,rake-sl,80
+12417,10,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12417,11,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12417,12,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12417,13,A4,2A_LHB,AC 2 Tier,rake-ac,54
+12417,14,A5,2A_LHB,AC 2 Tier,rake-ac,54
+12417,15,H1,1A_LHB,AC First Class,rake-ac,24
+12417,16,H2,1A_LHB,AC First Class,rake-ac,24
+12417,17,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12417,18,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12417,19,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12417,20,M1,3E,AC 3 Tier Economy,rake-ac,83
+12417,21,S6,SL_LHB,Sleeper,rake-sl,80
+12417,22,S7,SL_LHB,Sleeper,rake-sl,80
+12417,23,S8,SL_LHB,Sleeper,rake-sl,80
+12417,24,S9,SL_LHB,Sleeper,rake-sl,80
+12417,25,GRD,,General + Luggage + Brake,rake-grd,
+12275,1,ENG,,Engine,rake-eng,
+12275,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12275,3,S1,SL_LHB,Sleeper,rake-sl,80
+12275,4,S2,SL_LHB,Sleeper,rake-sl,80
+12275,5,S3,SL_LHB,Sleeper,rake-sl,80
+12275,6,S4,SL_LHB,Sleeper,rake-sl,80
+12275,7,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12275,8,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12275,9,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12275,10,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12275,11,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12275,12,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12275,13,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12275,14,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12275,15,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12275,16,B10,3A_LHB,AC 3 Tier,rake-ac,72
+12275,17,B11,3A_LHB,AC 3 Tier,rake-ac,72
+12275,18,B12,3A_LHB,AC 3 Tier,rake-ac,72
+12275,19,B13,3A_LHB,AC 3 Tier,rake-ac,72
+12275,20,B14,3A_LHB,AC 3 Tier,rake-ac,72
+12275,21,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12451,1,ENG,,Engine,rake-eng,
+12451,2,GRD,,General + Luggage + Brake,rake-grd,
+12451,3,GN,,General,rake-gen,
+12451,4,GN,,General,rake-gen,
+12451,5,GN,,General,rake-gen,
+12451,6,GN,,General,rake-gen,
+12451,7,H1,1A_LHB,AC First Class,rake-ac,24
+12451,8,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12451,9,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12451,10,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12451,11,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12451,12,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12451,13,M1,3E,AC 3 Tier Economy,rake-ac,83
+12451,14,M2,3E,AC 3 Tier Economy,rake-ac,83
+12451,15,M3,3E,AC 3 Tier Economy,rake-ac,83
+12451,16,M4,3E,AC 3 Tier Economy,rake-ac,83
+12451,17,M5,3E,AC 3 Tier Economy,rake-ac,83
+12451,18,S1,SL_LHB,Sleeper,rake-sl,80
+12451,19,S2,SL_LHB,Sleeper,rake-sl,80
+12451,20,S3,SL_LHB,Sleeper,rake-sl,80
+12451,21,S4,SL_LHB,Sleeper,rake-sl,80
+12451,22,S5,SL_LHB,Sleeper,rake-sl,80
+12451,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12447,1,ENG,,Engine,rake-eng,
+12447,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12447,3,GN,,General,rake-gen,
+12447,4,GN,,General,rake-gen,
+12447,5,HA1,1A_2A_LHB,AC First + AC 2 Tier,rake-ac,38
+12447,6,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12447,7,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12447,8,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12447,9,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12447,10,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12447,11,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12447,12,M2,3E,AC 3 Tier Economy,rake-ac,83
+12447,13,M1,3E,AC 3 Tier Economy,rake-ac,83
+12447,14,S6,SL_LHB,Sleeper,rake-sl,80
+12447,15,S5,SL_LHB,Sleeper,rake-sl,80
+12447,16,S4,SL_LHB,Sleeper,rake-sl,80
+12447,17,S3,SL_LHB,Sleeper,rake-sl,80
+12447,18,S2,SL_LHB,Sleeper,rake-sl,80
+12447,19,S1,SL_LHB,Sleeper,rake-sl,80
+12447,20,GN,,General,rake-gen,
+12447,21,GN,,General,rake-gen,
+12447,22,GN,,General,rake-gen,
+12447,23,GRD,,General + Luggage + Brake,rake-grd,
+14211,1,ENG,,Engine,rake-eng,
+14211,2,GRD,,General + Luggage + Brake,rake-grd,
+14211,3,GN,,General,rake-gen,
+14211,4,GN,,General,rake-gen,
+14211,5,GN,,General,rake-gen,
+14211,6,D12,2S_LHB,Second Seating (106),rake-gen,106
+14211,7,D11,2S_LHB,Second Seating (106),rake-gen,106
+14211,8,D10,2S_LHB,Second Seating (106),rake-gen,106
+14211,9,D9,2S_LHB,Second Seating (106),rake-gen,106
+14211,10,D8,2S_LHB,Second Seating (106),rake-gen,106
+14211,11,D7,2S_LHB,Second Seating (106),rake-gen,106
+14211,12,D6,2S_LHB,Second Seating (106),rake-gen,106
+14211,13,D5,2S_LHB,Second Seating (106),rake-gen,106
+14211,14,D4,2S_LHB,Second Seating (106),rake-gen,106
+14211,15,D3,2S_LHB,Second Seating (106),rake-gen,106
+14211,16,D2,2S_LHB,Second Seating (106),rake-gen,106
+14211,17,D1,2S_LHB,Second Seating (106),rake-gen,106
+14211,18,C2,CC_LHB,AC Chair Car,rake-cc,78
+14211,19,C1,CC_LHB,AC Chair Car,rake-cc,78
+14211,20,HA1,1A_2A_LHB,AC First + AC 2 Tier,rake-ac,38
+14211,21,GN,,General,rake-gen,
+14211,22,GN,,General,rake-gen,
+14211,23,SLR,,General + Disabled + Luggage + Brake,rake-grd,
+15303,1,ENG,,Engine,rake-eng,
+15303,2,GRD,,General + Luggage + Brake,rake-grd,
+15303,3,GN,,General,rake-gen,
+15303,4,GN,,General,rake-gen,
+15303,5,D1,2S,Second Seating,rake-gen,108
+15303,6,D2,2S,Second Seating,rake-gen,108
+15303,7,D3,2S,Second Seating,rake-gen,108
+15303,8,D4,2S,Second Seating,rake-gen,108
+15303,9,D5,2S,Second Seating,rake-gen,108
+15303,10,D6,2S,Second Seating,rake-gen,108
+15303,11,D7,2S,Second Seating,rake-gen,108
+15303,12,D8,2S,Second Seating,rake-gen,108
+15303,13,D9,2S,Second Seating,rake-gen,108
+15303,14,C1,CC_1,AC Chair Car,rake-cc,73
+15303,15,C2,CC_1,AC Chair Car,rake-cc,73
+15303,16,GN,,General,rake-gen,
+15303,17,GN,,General,rake-gen,
+15303,18,GN,,General,rake-gen,
+15303,19,GRD,,General + Luggage + Brake,rake-grd,
+82501,1,ENG,,Engine,rake-eng,
+82501,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+82501,3,C1,CC_LHB,AC Chair Car,rake-cc,78
+82501,4,C2,CC_LHB,AC Chair Car,rake-cc,78
+82501,5,C3,CC_LHB,AC Chair Car,rake-cc,78
+82501,6,C4,CC_LHB,AC Chair Car,rake-cc,78
+82501,7,C5,CC_LHB,AC Chair Car,rake-cc,78
+82501,8,C6,CC_LHB,AC Chair Car,rake-cc,78
+82501,9,C7,CC_LHB,AC Chair Car,rake-cc,78
+82501,10,C8,CC_LHB,AC Chair Car,rake-cc,78
+82501,11,C9,CC_LHB,AC Chair Car,rake-cc,78
+82501,12,C10,CC_LHB,AC Chair Car,rake-cc,78
+82501,13,C11,CC_LHB,AC Chair Car,rake-cc,78
+82501,14,C12,CC_LHB,AC Chair Car,rake-cc,78
+82501,15,EC1,,,rake-coach,
+82501,16,EC2,,,rake-coach,
+82501,17,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12229,1,ENG,,Engine,rake-eng,
+12229,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12229,3,GN,,General,rake-gen,
+12229,4,GN,,General,rake-gen,
+12229,5,S1,SL_LHB,Sleeper,rake-sl,80
+12229,6,S2,SL_LHB,Sleeper,rake-sl,80
+12229,7,S3,SL_LHB,Sleeper,rake-sl,80
+12229,8,S4,SL_LHB,Sleeper,rake-sl,80
+12229,9,S5,SL_LHB,Sleeper,rake-sl,80
+12229,10,S6,SL_LHB,Sleeper,rake-sl,80
+12229,11,S7,SL_LHB,Sleeper,rake-sl,80
+12229,12,S8,SL_LHB,Sleeper,rake-sl,80
+12229,13,M1,3E,AC 3 Tier Economy,rake-ac,83
+12229,14,M2,3E,AC 3 Tier Economy,rake-ac,83
+12229,15,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12229,16,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12229,17,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12229,18,H1,1A_LHB,AC First Class,rake-ac,24
+12229,19,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12229,20,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12229,21,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12229,22,GN,,General,rake-gen,
+12229,23,GN,,General,rake-gen,
+12229,24,GRD,,General + Luggage + Brake,rake-grd,
+12429,1,ENG,,Engine,rake-eng,
+12429,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12429,3,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12429,4,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12429,5,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12429,6,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12429,7,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12429,8,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12429,9,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12429,10,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12429,11,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12429,12,M1,3E,AC 3 Tier Economy,rake-ac,83
+12429,13,M2,3E,AC 3 Tier Economy,rake-ac,83
+12429,14,M3,3E,AC 3 Tier Economy,rake-ac,83
+12429,15,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12429,16,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12429,17,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12429,18,A4,2A_LHB,AC 2 Tier,rake-ac,54
+12429,19,A5,2A_LHB,AC 2 Tier,rake-ac,54
+12429,20,A6,2A_LHB,AC 2 Tier,rake-ac,54
+12429,21,H1,1A_LHB,AC First Class,rake-ac,24
+12429,22,BE1,,,rake-coach,
+12429,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12056,1,ENG,,Engine,rake-eng,
+12056,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12056,3,C1,CC_LHB,AC Chair Car,rake-cc,78
+12056,4,C2,CC_LHB,AC Chair Car,rake-cc,78
+12056,5,C3,CC_LHB,AC Chair Car,rake-cc,78
+12056,6,C4,CC_LHB,AC Chair Car,rake-cc,78
+12056,7,D1,2S_LHB,Second Seating (106),rake-gen,106
+12056,8,D2,2S_LHB,Second Seating (106),rake-gen,106
+12056,9,D3,2S_LHB,Second Seating (106),rake-gen,106
+12056,10,D4,2S_LHB,Second Seating (106),rake-gen,106
+12056,11,D5,2S_LHB,Second Seating (106),rake-gen,106
+12056,12,D6,2S_LHB,Second Seating (106),rake-gen,106
+12056,13,D7,2S_LHB,Second Seating (106),rake-gen,106
+12056,14,D8,2S_LHB,Second Seating (106),rake-gen,106
+12056,15,D9,2S_LHB,Second Seating (106),rake-gen,106
+12056,16,DL1,,General + Luggage + Brake,rake-grd,
+12446,1,ENG,,Engine,rake-eng,
+12446,2,GRD,,General + Luggage + Brake,rake-grd,
+12446,3,GN,,General,rake-gen,
+12446,4,GN,,General,rake-gen,
+12446,5,H1,1A_LHB,AC First Class,rake-ac,24
+12446,6,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12446,7,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12446,8,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12446,9,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12446,10,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12446,11,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12446,12,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12446,13,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12446,14,S7,SL_LHB,Sleeper,rake-sl,80
+12446,15,S6,SL_LHB,Sleeper,rake-sl,80
+12446,16,S5,SL_LHB,Sleeper,rake-sl,80
+12446,17,S4,SL_LHB,Sleeper,rake-sl,80
+12446,18,S3,SL_LHB,Sleeper,rake-sl,80
+12446,19,S2,SL_LHB,Sleeper,rake-sl,80
+12446,20,S1,SL_LHB,Sleeper,rake-sl,80
+12446,21,GN,,General,rake-gen,
+12446,22,GN,,General,rake-gen,
+12446,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+22462,1,ENG,,Engine,rake-eng,
+22462,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+22462,3,H1,1A_LHB,AC First Class,rake-ac,24
+22462,4,H2,1A_LHB,AC First Class,rake-ac,24
+22462,5,A1,2A_LHB,AC 2 Tier,rake-ac,54
+22462,6,A2,2A_LHB,AC 2 Tier,rake-ac,54
+22462,7,A3,2A_LHB,AC 2 Tier,rake-ac,54
+22462,8,A4,2A_LHB,AC 2 Tier,rake-ac,54
+22462,9,A5,2A_LHB,AC 2 Tier,rake-ac,54
+22462,10,PC,,AC Hot Buffet,rake-pc,
+22462,11,B1,3A_LHB,AC 3 Tier,rake-ac,72
+22462,12,B2,3A_LHB,AC 3 Tier,rake-ac,72
+22462,13,B3,3A_LHB,AC 3 Tier,rake-ac,72
+22462,14,B4,3A_LHB,AC 3 Tier,rake-ac,72
+22462,15,B5,3A_LHB,AC 3 Tier,rake-ac,72
+22462,16,B6,3A_LHB,AC 3 Tier,rake-ac,72
+22462,17,B7,3A_LHB,AC 3 Tier,rake-ac,72
+22462,18,B8,3A_LHB,AC 3 Tier,rake-ac,72
+22462,19,B9,3A_LHB,AC 3 Tier,rake-ac,72
+22462,20,B10,3A_LHB,AC 3 Tier,rake-ac,72
+22462,21,B11,3A_LHB,AC 3 Tier,rake-ac,72
+22462,22,B12,3A_LHB,AC 3 Tier,rake-ac,72
+22462,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12426,1,ENG,,Engine,rake-eng,
+12426,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12426,3,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12426,4,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12426,5,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12426,6,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12426,7,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12426,8,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12426,9,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12426,10,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12426,11,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12426,12,B10,3A_LHB,AC 3 Tier,rake-ac,72
+12426,13,B11,3A_LHB,AC 3 Tier,rake-ac,72
+12426,14,PC,,AC Hot Buffet,rake-pc,
+12426,15,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12426,16,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12426,17,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12426,18,A4,2A_LHB,AC 2 Tier,rake-ac,54
+12426,19,A5,2A_LHB,AC 2 Tier,rake-ac,54
+12426,20,H1,1A_LHB,AC First Class,rake-ac,24
+12426,21,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+22181,1,ENG,,Engine,rake-eng,
+22181,2,GRD,,General + Luggage + Brake,rake-grd,
+22181,3,GN,,General,rake-gen,
+22181,4,GN,,General,rake-gen,
+22181,5,S1,SL_LHB,Sleeper,rake-sl,80
+22181,6,S2,SL_LHB,Sleeper,rake-sl,80
+22181,7,S3,SL_LHB,Sleeper,rake-sl,80
+22181,8,S4,SL_LHB,Sleeper,rake-sl,80
+22181,9,S5,SL_LHB,Sleeper,rake-sl,80
+22181,10,S6,SL_LHB,Sleeper,rake-sl,80
+22181,11,S7,SL_LHB,Sleeper,rake-sl,80
+22181,12,M1,3E,AC 3 Tier Economy,rake-ac,83
+22181,13,B1,3A_LHB,AC 3 Tier,rake-ac,72
+22181,14,B2,3A_LHB,AC 3 Tier,rake-ac,72
+22181,15,B3,3A_LHB,AC 3 Tier,rake-ac,72
+22181,16,B4,3A_LHB,AC 3 Tier,rake-ac,72
+22181,17,B5,3A_LHB,AC 3 Tier,rake-ac,72
+22181,18,A1,2A_LHB,AC 2 Tier,rake-ac,54
+22181,19,A2,2A_LHB,AC 2 Tier,rake-ac,54
+22181,20,H1,1A_LHB,AC First Class,rake-ac,24
+22181,21,GN,,General,rake-gen,
+22181,22,GN,,General,rake-gen,
+22181,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12189,1,ENG,,Engine,rake-eng,
+12189,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12189,3,GN,,General,rake-gen,
+12189,4,GN,,General,rake-gen,
+12189,5,S1,SL_LHB,Sleeper,rake-sl,80
+12189,6,S2,SL_LHB,Sleeper,rake-sl,80
+12189,7,S3,SL_LHB,Sleeper,rake-sl,80
+12189,8,S4,SL_LHB,Sleeper,rake-sl,80
+12189,9,S5,SL_LHB,Sleeper,rake-sl,80
+12189,10,S6,SL_LHB,Sleeper,rake-sl,80
+12189,11,S7,SL_LHB,Sleeper,rake-sl,80
+12189,12,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12189,13,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12189,14,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12189,15,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12189,16,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12189,17,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12189,18,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12189,19,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12189,20,H1,1A_LHB,AC First Class,rake-ac,24
+12189,21,GN,,General,rake-gen,
+12189,22,GN,,General,rake-gen,
+12189,23,GRD,,General + Luggage + Brake,rake-grd,
+12121,1,ENG,,Engine,rake-eng,
+12121,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12121,3,GN,,General,rake-gen,
+12121,4,GN,,General,rake-gen,
+12121,5,M1,3E,AC 3 Tier Economy,rake-ac,83
+12121,6,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12121,7,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12121,8,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12121,9,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12121,10,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12121,11,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12121,12,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12121,13,H1,1A_LHB,AC First Class,rake-ac,24
+12121,14,S1,SL_LHB,Sleeper,rake-sl,80
+12121,15,S2,SL_LHB,Sleeper,rake-sl,80
+12121,16,S3,SL_LHB,Sleeper,rake-sl,80
+12121,17,S4,SL_LHB,Sleeper,rake-sl,80
+12121,18,S5,SL_LHB,Sleeper,rake-sl,80
+12121,19,S6,SL_LHB,Sleeper,rake-sl,80
+12121,20,S7,SL_LHB,Sleeper,rake-sl,80
+12121,21,GN,,General,rake-gen,
+12121,22,GN,,General,rake-gen,
+12121,23,GRD,,General + Luggage + Brake,rake-grd,
+12155,1,ENG,,Engine,rake-eng,
+12155,2,HCP,,,rake-coach,
+12155,3,GRD,,General + Luggage + Brake,rake-grd,
+12155,4,GN,,General,rake-gen,
+12155,5,GN,,General,rake-gen,
+12155,6,S7,SL_LHB,Sleeper,rake-sl,80
+12155,7,S6,SL_LHB,Sleeper,rake-sl,80
+12155,8,S5,SL_LHB,Sleeper,rake-sl,80
+12155,9,S4,SL_LHB,Sleeper,rake-sl,80
+12155,10,S3,SL_LHB,Sleeper,rake-sl,80
+12155,11,S2,SL_LHB,Sleeper,rake-sl,80
+12155,12,S1,SL_LHB,Sleeper,rake-sl,80
+12155,13,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12155,14,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12155,15,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12155,16,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12155,17,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12155,18,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12155,19,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12155,20,H1,1A_LHB,AC First Class,rake-ac,24
+12155,21,GN,,General,rake-gen,
+12155,22,GN,,General,rake-gen,
+12155,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12059,1,ENG,,Engine,rake-eng,
+12059,2,DL1,,General + Luggage + Brake,rake-grd,
+12059,3,D1,2S_LHB,Second Seating (106),rake-gen,106
+12059,4,D2,2S_LHB,Second Seating (106),rake-gen,106
+12059,5,D3,2S_LHB,Second Seating (106),rake-gen,106
+12059,6,D4,2S_LHB,Second Seating (106),rake-gen,106
+12059,7,D5,2S_LHB,Second Seating (106),rake-gen,106
+12059,8,D6,2S_LHB,Second Seating (106),rake-gen,106
+12059,9,D7,2S_LHB,Second Seating (106),rake-gen,106
+12059,10,D8,2S_LHB,Second Seating (106),rake-gen,106
+12059,11,D9,2S_LHB,Second Seating (106),rake-gen,106
+12059,12,D10,2S_LHB,Second Seating (106),rake-gen,106
+12059,13,D11,2S_LHB,Second Seating (106),rake-gen,106
+12059,14,D12,2S_LHB,Second Seating (106),rake-gen,106
+12059,15,D13,2S_LHB,Second Seating (106),rake-gen,106
+12059,16,D14,2S_LHB,Second Seating (106),rake-gen,106
+12059,17,D15,2S_LHB,Second Seating (106),rake-gen,106
+12059,18,D16,2S_LHB,Second Seating (106),rake-gen,106
+12059,19,D17,2S_LHB,Second Seating (106),rake-gen,106
+12059,20,C3,CC_LHB,AC Chair Car,rake-cc,78
+12059,21,C2,CC_LHB,AC Chair Car,rake-cc,78
+12059,22,C1,CC_LHB,AC Chair Car,rake-cc,78
+12059,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12964,1,ENG,,Engine,rake-eng,
+12964,2,GRD,,General + Luggage + Brake,rake-grd,
+12964,3,GN,,General,rake-gen,
+12964,4,GN,,General,rake-gen,
+12964,5,S1,SL_LHB,Sleeper,rake-sl,80
+12964,6,S2,SL_LHB,Sleeper,rake-sl,80
+12964,7,S3,SL_LHB,Sleeper,rake-sl,80
+12964,8,S4,SL_LHB,Sleeper,rake-sl,80
+12964,9,S5,SL_LHB,Sleeper,rake-sl,80
+12964,10,M2,3E,AC 3 Tier Economy,rake-ac,83
+12964,11,M1,3E,AC 3 Tier Economy,rake-ac,83
+12964,12,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12964,13,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12964,14,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12964,15,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12964,16,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12964,17,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12964,18,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12964,19,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12964,20,H1,1A_LHB,AC First Class,rake-ac,24
+12964,21,GN,,General,rake-gen,
+12964,22,GN,,General,rake-gen,
+12964,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+20155,1,ENG,,Engine,rake-eng,
+20155,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+20155,3,GN,,General,rake-gen,
+20155,4,GN,,General,rake-gen,
+20155,5,H1,1A_LHB,AC First Class,rake-ac,24
+20155,6,A1,2A_LHB,AC 2 Tier,rake-ac,54
+20155,7,A2,2A_LHB,AC 2 Tier,rake-ac,54
+20155,8,B1,3A_LHB,AC 3 Tier,rake-ac,72
+20155,9,B2,3A_LHB,AC 3 Tier,rake-ac,72
+20155,10,B3,3A_LHB,AC 3 Tier,rake-ac,72
+20155,11,B4,3A_LHB,AC 3 Tier,rake-ac,72
+20155,12,B5,3A_LHB,AC 3 Tier,rake-ac,72
+20155,13,S1,SL_LHB,Sleeper,rake-sl,80
+20155,14,S2,SL_LHB,Sleeper,rake-sl,80
+20155,15,S3,SL_LHB,Sleeper,rake-sl,80
+20155,16,S4,SL_LHB,Sleeper,rake-sl,80
+20155,17,S5,SL_LHB,Sleeper,rake-sl,80
+20155,18,S6,SL_LHB,Sleeper,rake-sl,80
+20155,19,S7,SL_LHB,Sleeper,rake-sl,80
+20155,20,GN,,General,rake-gen,
+20155,21,GN,,General,rake-gen,
+20155,22,GRD,,General + Luggage + Brake,rake-grd,
+12415,1,ENG,,Engine,rake-eng,
+12415,2,GRD,,General + Luggage + Brake,rake-grd,
+12415,3,GN,,General,rake-gen,
+12415,4,GN,,General,rake-gen,
+12415,5,S1,SL_LHB,Sleeper,rake-sl,80
+12415,6,S2,SL_LHB,Sleeper,rake-sl,80
+12415,7,S3,SL_LHB,Sleeper,rake-sl,80
+12415,8,S4,SL_LHB,Sleeper,rake-sl,80
+12415,9,S5,SL_LHB,Sleeper,rake-sl,80
+12415,10,S6,SL_LHB,Sleeper,rake-sl,80
+12415,11,M1,3E,AC 3 Tier Economy,rake-ac,83
+12415,12,M2,3E,AC 3 Tier Economy,rake-ac,83
+12415,13,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12415,14,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12415,15,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12415,16,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12415,17,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12415,18,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12415,19,H1,1A_LHB,AC First Class,rake-ac,24
+12415,20,GN,,General,rake-gen,
+12415,21,GN,,General,rake-gen,
+12415,22,GN,,General,rake-gen,
+12415,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12247,1,ENG,,Engine,rake-eng,
+12247,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12247,3,C2,CC_LHB,AC Chair Car,rake-cc,78
+12247,4,C1,CC_LHB,AC Chair Car,rake-cc,78
+12247,5,M18,3E,AC 3 Tier Economy,rake-ac,83
+12247,6,M17,3E,AC 3 Tier Economy,rake-ac,83
+12247,7,M16,3E,AC 3 Tier Economy,rake-ac,83
+12247,8,M15,3E,AC 3 Tier Economy,rake-ac,83
+12247,9,M14,3E,AC 3 Tier Economy,rake-ac,83
+12247,10,M13,3E,AC 3 Tier Economy,rake-ac,83
+12247,11,M12,3E,AC 3 Tier Economy,rake-ac,83
+12247,12,M11,3E,AC 3 Tier Economy,rake-ac,83
+12247,13,M10,3E,AC 3 Tier Economy,rake-ac,83
+12247,14,M9,3E,AC 3 Tier Economy,rake-ac,83
+12247,15,M8,3E,AC 3 Tier Economy,rake-ac,83
+12247,16,M7,3E,AC 3 Tier Economy,rake-ac,83
+12247,17,M6,3E,AC 3 Tier Economy,rake-ac,83
+12247,18,M5,3E,AC 3 Tier Economy,rake-ac,83
+12247,19,M4,3E,AC 3 Tier Economy,rake-ac,83
+12247,20,M3,3E,AC 3 Tier Economy,rake-ac,83
+12247,21,M2,3E,AC 3 Tier Economy,rake-ac,83
+12247,22,M1,3E,AC 3 Tier Economy,rake-ac,83
+12247,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12957,1,ENG,,Engine,rake-eng,
+12957,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12957,3,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12957,4,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12957,5,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12957,6,A4,2A_LHB,AC 2 Tier,rake-ac,54
+12957,7,A5,2A_LHB,AC 2 Tier,rake-ac,54
+12957,8,H1,1A_LHB,AC First Class,rake-ac,24
+12957,9,PC,,AC Hot Buffet,rake-pc,
+12957,10,BE1,,,rake-coach,
+12957,11,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12957,12,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12957,13,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12957,14,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12957,15,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12957,16,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12957,17,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12957,18,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12957,19,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12957,20,B10,3A_LHB,AC 3 Tier,rake-ac,72
+12957,21,B11,3A_LHB,AC 3 Tier,rake-ac,72
+12957,22,B12,3A_LHB,AC 3 Tier,rake-ac,72
+12957,23,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+15308,1,ENG,,Engine,rake-eng,
+15308,2,GRD,,General + Luggage + Brake,rake-grd,
+15308,3,GN,,General,rake-gen,
+15308,4,GN,,General,rake-gen,
+15308,5,GN,,General,rake-gen,
+15308,6,GN,,General,rake-gen,
+15308,7,GN,,General,rake-gen,
+15308,8,GN,,General,rake-gen,
+15308,9,GN,,General,rake-gen,
+15308,10,GN,,General,rake-gen,
+15308,11,GN,,General,rake-gen,
+15308,12,GN,,General,rake-gen,
+15308,13,GN,,General,rake-gen,
+15308,14,C1,CC_1,AC Chair Car,rake-cc,73
+15308,15,C2,CC_1,AC Chair Car,rake-cc,73
+15308,16,GN,,General,rake-gen,
+15308,17,GN,,General,rake-gen,
+15308,18,GN,,General,rake-gen,
+15308,19,GRD,,General + Luggage + Brake,rake-grd,
+14727,1,ENG,,Engine,rake-eng,
+14727,2,DL1,,General + Luggage + Brake,rake-grd,
+14727,3,D1,2S,Second Seating,rake-gen,108
+14727,4,D2,2S,Second Seating,rake-gen,108
+14727,5,D3,2S,Second Seating,rake-gen,108
+14727,6,D4,2S,Second Seating,rake-gen,108
+14727,7,S1,SL,Sleeper,rake-sl,72
+14727,8,S2,SL,Sleeper,rake-sl,72
+14727,9,S3,SL,Sleeper,rake-sl,72
+14727,10,S4,SL,Sleeper,rake-sl,72
+14727,11,S5,SL,Sleeper,rake-sl,72
+14727,12,S6,SL,Sleeper,rake-sl,72
+14727,13,S7,SL,Sleeper,rake-sl,72
+14727,14,D5,2S,Second Seating,rake-gen,108
+14727,15,D6,2S,Second Seating,rake-gen,108
+14727,16,D7,2S,Second Seating,rake-gen,108
+14727,17,D8,2S,Second Seating,rake-gen,108
+14727,18,DL2,,General + Luggage + Brake,rake-grd,
+12951,1,ENG,,Engine,rake-eng,
+12951,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12951,3,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12951,4,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12951,5,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12951,6,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12951,7,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12951,8,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12951,9,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12951,10,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12951,11,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12951,12,B10,3A_LHB,AC 3 Tier,rake-ac,72
+12951,13,B11,3A_LHB,AC 3 Tier,rake-ac,72
+12951,14,PC,,AC Hot Buffet,rake-pc,
+12951,15,H1,1A_LHB,AC First Class,rake-ac,24
+12951,16,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12951,17,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12951,18,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12951,19,A4,2A_LHB,AC 2 Tier,rake-ac,54
+12951,20,A5,2A_LHB,AC 2 Tier,rake-ac,54
+12951,21,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12951,22,HCP,,,rake-coach,
+12953,1,ENG,,Engine,rake-eng,
+12953,2,PWR,,"Brake, Luggage cum Generator",rake-pwr,
+12953,3,B1,3A_LHB,AC 3 Tier,rake-ac,72
+12953,4,B2,3A_LHB,AC 3 Tier,rake-ac,72
+12953,5,B3,3A_LHB,AC 3 Tier,rake-ac,72
+12953,6,B4,3A_LHB,AC 3 Tier,rake-ac,72
+12953,7,B5,3A_LHB,AC 3 Tier,rake-ac,72
+12953,8,B6,3A_LHB,AC 3 Tier,rake-ac,72
+12953,9,B7,3A_LHB,AC 3 Tier,rake-ac,72
+12953,10,B8,3A_LHB,AC 3 Tier,rake-ac,72
+12953,11,B9,3A_LHB,AC 3 Tier,rake-ac,72
+12953,12,B10,3A_LHB,AC 3 Tier,rake-ac,72
+12953,13,B11,3A_LHB,AC 3 Tier,rake-ac,72
+12953,14,PC,,AC Hot Buffet,rake-pc,
+12953,15,H1,1A_LHB,AC First Class,rake-ac,24
+12953,16,A1,2A_LHB,AC 2 Tier,rake-ac,54
+12953,17,A2,2A_LHB,AC 2 Tier,rake-ac,54
+12953,18,A3,2A_LHB,AC 2 Tier,rake-ac,54
+12953,19,A4,2A_LHB,AC 2 Tier,rake-ac,54
+12953,20,A5,2A_LHB,AC 2 Tier,rake-ac,54
+12953,21,PWR,,"Brake, Luggage cum Generator",rake-pwr,

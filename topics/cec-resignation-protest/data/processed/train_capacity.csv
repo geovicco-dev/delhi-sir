@@ -1,0 +1,42 @@
+train_no,train_name,origin_name,dest_code,category,rake_listed_on_etrain,reserved_capacity_full,coaches_counted,uncounted_general_coaches,unclassified_coaches,etrain_sched_arrival_at_dest,etrain_page
+12309,Rajendra Nagar Tejas Rajdhani,Rajendra Nagar Terminal (Patna),NDLS,cancelled_at_source,True,1110,18,0,0,07:40 (Day 2),data/raw/etrain/20261009T140714Z/trains/12309.html
+12393,Sampoorna Kranti Express,Rajendra Nagar Terminal (Patna),NDLS,cancelled_at_source,True,1127,16,4,1,07:55 (Day 2),data/raw/etrain/20261009T140714Z/trains/12393.html
+20801,Magadh Express,Islampur,NDLS,cancelled_at_source,True,1279,18,3,0,12:00 (Day 2),data/raw/etrain/20261009T140714Z/trains/20801.html
+22361,Rajendra Nagar Amrit Bharat Express,Rajendra Nagar Terminal (Patna),NDLS,cancelled_at_source,True,640,8,13,0,13:10 (Day 2),data/raw/etrain/20261009T140714Z/trains/22361.html
+12559,Shivganga Express,Banaras,NDLS,cancelled_at_source,True,1130,16,5,1,08:30 (Day 2),data/raw/etrain/20261009T140714Z/trains/12559.html
+12581,Banaras-New Delhi Superfast,Banaras,NDLS,cancelled_at_source,True,1130,16,5,0,09:45 (Day 2),data/raw/etrain/20261009T140714Z/trains/12581.html
+12301,Howrah-New Delhi Rajdhani,Howrah,NDLS,cancelled_at_source,True,1092,18,0,1,10:05 (Day 2),data/raw/etrain/20261009T140714Z/trains/12301.html
+12313,Sealdah-New Delhi Rajdhani,Sealdah,NDLS,cancelled_at_source,True,1194,18,0,0,10:50 (Day 2),data/raw/etrain/20261009T140714Z/trains/12313.html
+12877,Ranchi-New Delhi Garib Rath,Ranchi,NDLS,cancelled_at_source,True,1494,18,0,0,11:10 (Day 2),data/raw/etrain/20261009T140714Z/trains/12877.html
+22221,CSMT-Hazrat Nizamuddin Rajdhani,Mumbai CSMT,NZM,cancelled_at_source,True,1158,18,2,0,09:55 (Day 2),data/raw/etrain/20261009T140714Z/trains/22221.html
+12033,Kanpur-New Delhi Shatabdi,Kanpur Central,NDLS,cancelled_at_source,True,1148,15,0,0,11:20 (Day 1),data/raw/etrain/20261009T140714Z/trains/12033.html
+12417,Prayagraj Express,Prayagraj Jn,NDLS,cancelled_at_source,True,1337,20,3,0,07:00 (Day 2),data/raw/etrain/20261009T140714Z/trains/12417.html
+12275,Prayagraj-New Delhi Humsafar,Prayagraj Jn,NDLS,cancelled_at_source,True,1328,18,0,0,06:15 (Day 2),data/raw/etrain/20261009T140714Z/trains/12275.html
+12451,Shramshakti Express,Kanpur Central,NDLS,cancelled_at_source,True,1163,16,5,0,05:55 (Day 2),data/raw/etrain/20261009T140714Z/trains/12451.html
+12447,UP Sampark Kranti,Manikpur Jn,NZM,cancelled_at_source,True,1080,15,6,0,05:22 (Day 2),data/raw/etrain/20261009T140714Z/trains/12447.html
+14211,Agra Cantt-New Delhi Intercity,Agra Cantt,NDLS,cancelled_at_source,True,1466,15,7,0,10:00 (Day 1),data/raw/etrain/20261009T140714Z/trains/14211.html
+15303,Kasganj-New Delhi Express,Kasganj,NDLS,cancelled_at_source,True,1118,11,7,0,10:20 (Day 1),data/raw/etrain/20261009T140714Z/trains/15303.html
+82501,Lucknow-New Delhi Tejas,Lucknow Jn,NDLS,cancelled_at_source,True,936,12,0,2,12:35 (Day 1),data/raw/etrain/20261009T140714Z/trains/82501.html
+12229,Lucknow Mail,Lucknow Charbagh,NDLS,cancelled_at_source,True,1208,17,5,0,06:55 (Day 2),data/raw/etrain/20261009T140714Z/trains/12229.html
+12429,Lucknow-New Delhi AC Superfast,Lucknow Charbagh,NDLS,cancelled_at_source,True,1245,19,0,1,07:30 (Day 2),data/raw/etrain/20261009T140714Z/trains/12429.html
+12056,Dehradun-New Delhi Jan Shatabdi,Dehradun,NDLS,cancelled_at_source,True,1266,13,1,0,11:05 (Day 1),data/raw/etrain/20261009T140714Z/trains/12056.html
+12446,Uttar Sampark Kranti,Shri Mata Vaishno Devi Katra,NDLS,cancelled_at_source,True,1124,16,5,0,06:55 (Day 2),data/raw/etrain/20261009T140714Z/trains/12446.html
+04082,Katra-New Delhi Special,Shri Mata Vaishno Devi Katra,NDLS,cancelled_at_source,False,,0,0,0,10:00 (Day 2),data/raw/etrain/20261009T140714Z/trains/04082.html
+22462,Shri Shakti AC Express,Shri Mata Vaishno Devi Katra,NDLS,cancelled_at_source,True,1182,19,0,0,09:50 (Day 2),data/raw/etrain/20261009T140714Z/trains/22462.html
+12426,Jammu Tawi-New Delhi Rajdhani,Jammu Tawi,NDLS,cancelled_at_source,True,1086,17,0,0,05:55 (Day 2),data/raw/etrain/20261009T140714Z/trains/12426.html
+22181,Jabalpur-Hazrat Nizamuddin Superfast,Jabalpur,NZM,cancelled_at_source,True,1135,16,5,0,04:10 (Day 2),data/raw/etrain/20261009T140714Z/trains/22181.html
+12189,Mahakaushal Express,Jabalpur,NZM,cancelled_at_source,True,1124,16,5,0,11:00 (Day 2),data/raw/etrain/20261009T140714Z/trains/12189.html
+12121,MP Sampark Kranti,Jabalpur,NZM,cancelled_at_source,True,1135,16,5,0,07:50 (Day 2),data/raw/etrain/20261009T140714Z/trains/12121.html
+12155,Shaan-e-Bhopal Express,Rani Kamlapati (Bhopal),NZM,cancelled_at_source,True,1052,15,5,1,08:00 (Day 2),data/raw/etrain/20261009T140714Z/trains/12155.html
+12059,Kota-Hazrat Nizamuddin,Kota,NZM,cancelled_at_source,True,2036,20,1,0,12:10 (Day 1),data/raw/etrain/20261009T140714Z/trains/12059.html
+12964,Mewar Express,Udaipur City,NZM,cancelled_at_source,True,1130,16,5,0,06:50 (Day 2),data/raw/etrain/20261009T140714Z/trains/12964.html
+20155,Dr Ambedkar Nagar-New Delhi Express,Dr Ambedkar Nagar (Mhow),NDLS,cancelled_at_source,True,1052,15,5,0,04:25 (Day 2),data/raw/etrain/20261009T140714Z/trains/20155.html
+12415,Indore-New Delhi Express,Indore Jn,NDLS,cancelled_at_source,True,1066,15,6,0,06:20 (Day 2),data/raw/etrain/20261009T140714Z/trains/12415.html
+09309,Indore-Hazrat Nizamuddin Special,Indore Jn,NZM,cancelled_at_source,False,,0,0,0,05:00 (Day 2),data/raw/etrain/20261009T140714Z/trains/09309.html
+12247,Bandra Terminus-Hazrat Nizamuddin Yuva Express,Bandra Terminus,NZM,cancelled_at_source,True,1650,20,0,0,10:15 (Day 2),data/raw/etrain/20261009T140714Z/trains/12247.html
+12957,Swarna Jayanti Rajdhani,Sabarmati,NDLS,cancelled_at_source,True,1158,18,0,1,07:30 (Day 2),data/raw/etrain/20261009T140714Z/trains/12957.html
+15308,Sirsa-Tilak Bridge Express,Sirsa,TKJ,cancelled_at_source_tilak_bridge,True,146,2,16,0,10:25 (Day 1),data/raw/etrain/20261009T140714Z/trains/15308.html
+14727,Sri Ganganagar-Tilak Bridge Express,Sri Ganganagar,TKJ,cancelled_at_source_tilak_bridge,True,1368,15,2,0,09:10 (Day 2),data/raw/etrain/20261009T140714Z/trains/14727.html
+14737,Bhiwani-Tilak Bridge Express,Bhiwani Jn,TKJ,cancelled_at_source_tilak_bridge,False,,0,0,0,08:41 (Day 1),data/raw/etrain/20261009T140714Z/trains/14737.html
+12951,Mumbai Central-New Delhi Rajdhani,Mumbai Central,NDLS,rescheduled_5h,True,1086,17,0,1,08:32 (Day 2),data/raw/etrain/20261009T140714Z/trains/12951.html
+12953,August Kranti Rajdhani,Mumbai Central,NZM,rescheduled_5h,True,1086,17,0,0,09:43 (Day 2),data/raw/etrain/20261009T140714Z/trains/12953.html

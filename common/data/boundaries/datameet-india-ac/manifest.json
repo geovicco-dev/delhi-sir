@@ -1,0 +1,47 @@
+{
+  "commit": "7a1c21c2e3f059a19aba1023f64ed7e174462ca4",
+  "files": [
+    {
+      "file": "India_AC.shp",
+      "url": "https://raw.githubusercontent.com/datameet/maps/7a1c21c2e3f059a19aba1023f64ed7e174462ca4/assembly-constituencies/India_AC.shp",
+      "bytes": 6263460,
+      "sha1": "9d420812fdfdceb792875bf45c27602916958cf0",
+      "downloaded_at": "2026-10-03T03:18:01+00:00"
+    },
+    {
+      "file": "India_AC.shx",
+      "url": "https://raw.githubusercontent.com/datameet/maps/7a1c21c2e3f059a19aba1023f64ed7e174462ca4/assembly-constituencies/India_AC.shx",
+      "bytes": 33556,
+      "sha1": "695d1a49188873aec165c9ee5b7fa2f2ce3232dd",
+      "downloaded_at": "2026-10-03T03:18:01+00:00"
+    },
+    {
+      "file": "India_AC.dbf",
+      "url": "https://raw.githubusercontent.com/datameet/maps/7a1c21c2e3f059a19aba1023f64ed7e174462ca4/assembly-constituencies/India_AC.dbf",
+      "bytes": 5721425,
+      "sha1": "f5646d44d6ec4710ee7e038f120a80e684ddb16f",
+      "downloaded_at": "2026-10-03T03:18:03+00:00"
+    },
+    {
+      "file": "India_AC.prj",
+      "url": "https://raw.githubusercontent.com/datameet/maps/7a1c21c2e3f059a19aba1023f64ed7e174462ca4/assembly-constituencies/India_AC.prj",
+      "bytes": 143,
+      "sha1": "308d6355be935e0f7853161b1adda5bcd48188ff",
+      "downloaded_at": "2026-10-03T03:18:03+00:00"
+    },
+    {
+      "file": "India_AC.shp.xml",
+      "url": "https://raw.githubusercontent.com/datameet/maps/7a1c21c2e3f059a19aba1023f64ed7e174462ca4/assembly-constituencies/India_AC.shp.xml",
+      "bytes": 11061,
+      "sha1": "7be69cab6121b863eea63df165402b9a1e302dd4",
+      "downloaded_at": "2026-10-03T03:18:03+00:00"
+    },
+    {
+      "file": "README.md",
+      "url": "https://raw.githubusercontent.com/datameet/maps/7a1c21c2e3f059a19aba1023f64ed7e174462ca4/assembly-constituencies/README.md",
+      "bytes": 890,
+      "sha1": "481075d82f9b8adec9b39452cc0b08b3bc51eef6",
+      "downloaded_at": "2026-10-03T03:18:04+00:00"
+    }
+  ]
+}

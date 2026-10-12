@@ -1,0 +1,32 @@
+key,outlet,url,used_for,opened,reliability
+ThePrint-PTI,ThePrint (PTI),https://theprint.in/india/38-new-delhi-nizamuddin-bound-trains-cancelled-on-oct-10-operations-normal-at-other-stations-rlys/3066771/,38 of 165; other terminals normal (CPRO on record),yes,high
+dtnext-PTI,DT Next (PTI),https://www.dtnext.in/news/national/railways-cancels-select-mail-express-trains-arriving-at-new-delhi-nizamuddin-stations-on-oct-10,same PTI copy,yes,high
+Patriot,The Patriot,https://thepatriot.in/delhi-ncr/railways-cancels-select-mail-express-trains-arriving-at-new-delhi-nizamuddin-stations-on-oct-10-90847,Railway Board circular text,yes,medium
+Quint,The Quint,https://www.thequint.com/news/breaking-news/cjp-protest-trains-to-delhi-cancelled-metro-rail-closures-october-ten-protest-security,Ministry statement; 12301/12313,yes,medium-high
+ETV-EN,ETV Bharat (English),https://www.etvbharat.com/en/bharat/several-mail-and-express-trains-arriving-new-delhi-and-hazrat-nizamuddin-on-october-10-cancelled-due-to-cjp-protest-metro-stations-shut-list-enn26100902524,CPRO 'arrival and departure' quote; metro list,yes,medium
+Outlook-rail,Outlook,https://www.outlookindia.com/national/cjp-protest-railways-cancels-delhi-bound-mail-express-trains-from-4-am-to-2-pm-on-oct-10,Coaching Directorate; DCP s.163 quote,yes,medium-high
+Outlook-metro,Outlook,https://www.outlookindia.com/national/delhi-police-proposes-closure-of-57-metro-stations-ahead-of-cjp-protest-on-october-10,57 stations grouped; requester; DMRC unconfirmed,yes,medium-high
+IndiaTV,India TV,https://www.indiatvnews.com/delhi/delhi-metro-s-57-stations-likely-to-remain-closed-on-october-10-in-view-of-cjp-protest-2026-10-09-1056511,police letter quote; 57 names,yes,medium-high
+LiveLaw-SC,LiveLaw,https://www.livelaw.in/top-stories/dont-completely-stop-trainsmetro-in-delhi-allow-services-in-regulated-manner-supreme-court-to-centre-on-oct-10-protests-553920,Supreme Court direction 9 Oct,yes,high
+AmarUjala,Amar Ujala,https://www.amarujala.com/india-news/38-trains-to-new-delhi-and-hazrat-nizamuddin-cancelled-2-rescheduled-what-about-anand-vihar-and-other-stations-2026-10-09,68-row NTES-style table,yes,medium
+AajTak,Aaj Tak,https://www.aajtak.in/business/utility/story/cjp-protest-in-delhi-railways-cancelled-shiv-ganga-magadh-rajdhani-sampoorna-krant-trains-dpmx-dskc-2665623-2026-10-09,only source with arrival times,yes,medium
+ETV-Bihar,ETV Bharat Bihar,https://www.etvbharat.com/hi/state/many-trains-affected-on-gorakhpur-gonda-section-and-patna-to-delhi-route-due-to-signalling-work-and-cjp-protest-brs26100902321,ECR trains,yes,medium
+ETV-JK,ETV Bharat J&K,https://www.etvbharat.com/en/state/northern-railway-cancels-4-delhi-bound-trains-from-j-vaishno-devi-pilgrims-hit-enn26100904051,4 Jammu/Katra trains,yes,medium
+KashmirDespatch,Kashmir Despatch,https://kashmirdespatch.com/four-trains-to-delhi-cancelled-amid-traffic-congestion/,4 Jammu/Katra trains,yes,medium
+ETV-MP,ETV Bharat MP,https://www.etvbharat.com/hi/state/madhya-pradesh-5-trains-cancelled-route-delhi-cjp-protest-mahakaushal-express-bhopal-nizamuddin-mps26100903260,WCR trains,yes,medium
+PeoplesUpdate,People's Update,https://peoplesupdate.com/bhopal-delhi-train-cancelled-shan-e-bhopal-rajdhani-list-152918,WCR numbers 12155/12059,yes,low-medium
+PrabhatKhabar,Prabhat Khabar,https://www.prabhatkhabar.com/state/uttar-pradesh/delhi-protest-up-trains-cancelled-lucknow-mail-prayagraj-express-full-list,NCR/NER trains; refunds (NER),yes,medium
+Patrika,Patrika,https://www.patrika.com/bhopal-news/mp-students-detained-trains-cancelled-delhi-cjp-protest-20971445,WR Ratlam trains; refunds,yes,medium
+FPJ-PTI,Free Press Journal (PTI),https://www.freepressjournal.in/mumbai/delhi-bound-trains-from-mumbai-rescheduled-several-services-cancelled-over-anticipated-traffic-congestion,WR trains; 2 Rajdhanis rescheduled,yes,medium-high
+TimesNowHindi,Times Now Hindi,https://www.timesnowhindi.com/business/delhi-trains-cancelled-from-rajdhani-to-garib-rath-check-full-list-of-cancellations-amid-protest-alert-on-october-10-article-156303666,partial list,yes,medium
+Zee,Zee News,https://zeenews.india.com/india/delhi-train-cancellations-october-10-2026-rajdhani-shiv-ganga-cjp-protest-3075264.html,partial list,yes,medium
+BusinessToday,Business Today,https://www.businesstoday.in/india/story/cjp-protest-on-october-10-trains-to-new-delhi-nizamuddin-stations-cancelled-at-source-560601-2026-10-09,12313/22221,yes,medium
+BharatNow,Bharat Now,https://thebharatnow.in/madhya-pradesh/impact-on-trains-running-from-mp-to-delhi-railways-decision-may-cause-inconvenience-to-passengers/,12247,yes,low-medium
+Khabarwala24,Khabarwala24,https://www.khabarwala24.com/indian-railway/railway-news-impact-of-cjp-protest-in-delhi-railways-cancels-6-major-trains-including-lucknow-mail/188335/,NR trains,yes,low-medium
+Oneindia,Oneindia Hindi,https://hindi.oneindia.com/news/india/delhi-cjp-protest-10-october-railways-cancelled-trains-traffic-advisory-updates-1664615.html,partial list,yes,medium
+DeccanHerald,Deccan Herald (PTI),,12033/12275 via PTI,yes,medium
+News24,News24 Hindi,,12877 (snippet only),no,low
+BusinessToday-metro,Business Today,https://www.businesstoday.in/latest/trends/photo/delhi-metros-new-busiest-station-is-not-rajiv-chowk-and-its-not-kashmere-gate-either-544297-2026-07-21,station ridership June 2026 (TOI citing DMRC),yes,medium
+datameet,datameet/railways,https://github.com/datameet/railways,station coordinates (CC0; ~2016),yes,medium
+OSM,OpenStreetMap via Overpass API,https://overpass-api.de/,Delhi Metro routes and stops (ODbL),yes,medium-high
+TNM-permission,The News Minute,https://www.thenewsminute.com/news/october-10-cjp-protest-in-delhi-trains-cancelled-57-metro-stations-to-be-shut,"Delhi Police refused permission for the 10 Oct Jantar Mantar protest (no 10-day notice, earlier violations, public safety; officials unnamed); s.163 BNSS in force in parts of central Delhi. TNM Staff, 9 Oct 2026",yes,medium-high

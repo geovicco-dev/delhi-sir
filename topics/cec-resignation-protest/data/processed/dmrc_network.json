@@ -1,0 +1,3741 @@
+{
+ "source": "DMRC journey planner bundle, modules 259 + 2259 (R6)",
+ "lines": [
+  {
+   "key": "Line 1",
+   "name": "Red Line",
+   "colour": "#c1282b",
+   "stations": [
+    "RI",
+    "RHW",
+    "RHE",
+    "PTP",
+    "KE",
+    "NSHP",
+    "KP",
+    "KN",
+    "ILOK",
+    "SHT",
+    "PRA",
+    "PBGH",
+    "TZI",
+    "KG",
+    "SHPK",
+    "SLAP",
+    "WC",
+    "SHD",
+    "MPK",
+    "JLML",
+    "DSG",
+    "SHDN",
+    "RJBH",
+    "RJNM",
+    "SMPK",
+    "MNGM",
+    "ATHA",
+    "HDNR",
+    "NBAA"
+   ]
+  },
+  {
+   "key": "Line 2",
+   "name": "Yellow Line",
+   "colour": "#f5d618",
+   "stations": [
+    "SPBI",
+    "RISE",
+    "BIMR",
+    "JGPI",
+    "AHNR",
+    "AZU",
+    "MDTW",
+    "GTBR",
+    "VW",
+    "VS",
+    "CL",
+    "KG",
+    "CHK",
+    "CWBR",
+    "NDI",
+    "RCK",
+    "PTCK",
+    "CTST",
+    "UDB",
+    "LKM",
+    "JB",
+    "INA",
+    "AIIMS",
+    "GNPK",
+    "HKS",
+    "MVNR",
+    "SAKT",
+    "QM",
+    "CHTP",
+    "SLTP",
+    "GTNI",
+    "AJG",
+    "GE",
+    "SKRP",
+    "MGRO",
+    "IFOC",
+    "HCC"
+   ]
+  },
+  {
+   "key": "Line 3",
+   "name": "Blue Line",
+   "colour": "#3e77bc",
+   "stations": [
+    "DSTO",
+    "DSET",
+    "DSN",
+    "DST",
+    "DSE",
+    "DSW",
+    "DSTN",
+    "DSFN",
+    "DW",
+    "DM",
+    "NWD",
+    "UNW",
+    "UNE",
+    "JPW",
+    "JPE",
+    "TN",
+    "SN",
+    "TG",
+    "RG",
+    "RN",
+    "MN",
+    "KNR",
+    "SP",
+    "PN",
+    "RP",
+    "KB",
+    "JW",
+    "RKAM",
+    "RCK",
+    "BRKR",
+    "MDHS",
+    "PTMD",
+    "IDPT",
+    "YB",
+    "ASDM",
+    "MVP1",
+    "MVE",
+    "NAGR",
+    "NSFT",
+    "NSST",
+    "NSET",
+    "BCGN",
+    "GEC",
+    "NCC",
+    "STFN",
+    "SFTN",
+    "SSON",
+    "SFNN",
+    "SSTN",
+    "NECC"
+   ]
+  },
+  {
+   "key": "Line 4",
+   "name": "Blue Line",
+   "colour": "#3e77bc",
+   "stations": [
+    "YB",
+    "LN",
+    "NV",
+    "PTVR",
+    "KKDA",
+    "AVIT",
+    "KSHI",
+    "VASI"
+   ]
+  },
+  {
+   "key": "Line 5",
+   "name": "Green Line",
+   "colour": "#52aa55",
+   "stations": [
+    "CIPK",
+    "BUSS",
+    "MIEE",
+    "TKBR",
+    "TKLM",
+    "GHEM",
+    "MIAA",
+    "MUDK",
+    "RDPK",
+    "NRSN",
+    "NNOI",
+    "SMSM",
+    "UNRG",
+    "PAGI",
+    "PVW",
+    "PVE",
+    "MAPR",
+    "SHVP",
+    "PBGW",
+    "PBGA",
+    "APMN",
+    "SRSM",
+    "KNR",
+    "ILOK"
+   ]
+  },
+  {
+   "key": "Line 6",
+   "name": "Violet Line",
+   "colour": "#8115ff",
+   "stations": [
+    "KG",
+    "LLQA",
+    "JAMD",
+    "DLIG",
+    "ITO",
+    "MDHS",
+    "JNPH",
+    "CTST",
+    "KM",
+    "JLNS",
+    "JGPA",
+    "LJPN",
+    "MLCD",
+    "KHCY",
+    "NP",
+    "KJMD",
+    "GDPI",
+    "HNOK",
+    "JLA",
+    "STVR",
+    "METE",
+    "TKDS",
+    "BAPB",
+    "SRAI",
+    "NHPC",
+    "MMJR",
+    "STTA",
+    "BKMR",
+    "OFDB",
+    "NCAJ",
+    "BACH",
+    "ECMJ",
+    "NCBC",
+    "BVHM"
+   ]
+  },
+  {
+   "key": "Line 7",
+   "name": "Pink Line",
+   "colour": "#e692be",
+   "stations": [
+    "MKPR",
+    "AZU",
+    "SMBG",
+    "NSHP",
+    "SAKP",
+    "PBGW",
+    "ESIH",
+    "RG",
+    "MYPI",
+    "NAVR",
+    "DLIC",
+    "DDSC",
+    "SVMB",
+    "BKCP",
+    "SOJI",
+    "INA",
+    "SOEN",
+    "LJPN",
+    "VNPR",
+    "AHRM",
+    "NIZM",
+    "MVP1",
+    "MVPO",
+    "TKPR",
+    "VENT",
+    "VNNR",
+    "IPE",
+    "AVIT",
+    "KKDA",
+    "KKDC",
+    "KHNA",
+    "EANR",
+    "WC",
+    "JFRB",
+    "MUPR",
+    "GKPR",
+    "JIEE",
+    "SVVR"
+   ]
+  },
+  {
+   "key": "Line 7 Ext.",
+   "name": "Pink Line",
+   "colour": "#e692be",
+   "stations": [
+    "MUPR",
+    "YMVR",
+    "BJPU",
+    "KJKS",
+    "SNVH",
+    "SOOG",
+    "JPVE",
+    "JRMR",
+    "BURI",
+    "MKPR"
+   ]
+  },
+  {
+   "key": "Line 8",
+   "name": "Magenta Line",
+   "colour": "#f0f",
+   "stations": [
+    "KPEN",
+    "JPW",
+    "DBMR",
+    "DSHP",
+    "PALM",
+    "SABR",
+    "IGDA",
+    "SKVR",
+    "VTVR",
+    "MIRK",
+    "RKPM",
+    "IIT",
+    "HKS",
+    "PSPK",
+    "CDLI",
+    "GKEI",
+    "NUEE",
+    "KJMD",
+    "OKNS",
+    "IWNR",
+    "JANR",
+    "OVA",
+    "JLA8",
+    "KIKJ",
+    "OKBS",
+    "BCGN"
+   ]
+  },
+  {
+   "key": "Line 8 Ext.",
+   "name": "Magenta Line",
+   "colour": "#f0f",
+   "stations": [
+    "MKPR",
+    "BLSW",
+    "NONE",
+    "BIMR",
+    "NPPR",
+    "PHVR",
+    "PTP",
+    "DPCK",
+    "PAGI",
+    "KPEN"
+   ]
+  },
+  {
+   "key": "Line 9",
+   "name": "Grey Line",
+   "colour": "#d4d4d6",
+   "stations": [
+    "DW",
+    "NNGI",
+    "NFGH",
+    "DNBT"
+   ]
+  },
+  {
+   "key": "Line 10",
+   "name": "Grey Line",
+   "colour": "#d4d4d6",
+   "stations": [
+    "DKV",
+    "DDSC"
+   ]
+  },
+  {
+   "key": "Airport Express",
+   "name": "Orange Line",
+   "colour": "#eb8923",
+   "stations": [
+    "NDI",
+    "SJSU",
+    "DKV",
+    "DACY",
+    "APOT",
+    "DSTO",
+    "IICC"
+   ]
+  },
+  {
+   "key": "Rapid Metro",
+   "name": "Gurgoan",
+   "colour": "#015b97",
+   "stations": [
+    "DL2",
+    "BEL",
+    "GAT",
+    "MAL",
+    "DL3",
+    "SKRP",
+    "PH1",
+    "SUL",
+    "S53",
+    "AIT",
+    "S55"
+   ]
+  }
+ ],
+ "stations": {
+  "RI": {
+   "name_dmrc_web": "Rithala",
+   "name_current": "Rithala",
+   "name_hi": "रिठाला",
+   "x": 476.39,
+   "y": 1264.86,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Rithala"
+  },
+  "RHW": {
+   "name_dmrc_web": "Rohini West",
+   "name_current": "Dr. Baba Saheb Ambedkar Hospital",
+   "name_hi": "रोहिणी वेस्ट",
+   "x": 491.47,
+   "y": 1249.81,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Rohini West"
+  },
+  "RHE": {
+   "name_dmrc_web": "Rohini East",
+   "name_current": "Rohini",
+   "name_hi": "रोहिणी ईस्ट",
+   "x": 509.4,
+   "y": 1232.25,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Rohini East"
+  },
+  "PTP": {
+   "name_dmrc_web": "Madhuban Chowk",
+   "name_current": "Madhuban Chowk",
+   "name_hi": "मधुबन चौक",
+   "x": 529.48,
+   "y": 1218.22,
+   "interchange": false,
+   "lines": [
+    "Red Line",
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KE": {
+   "name_dmrc_web": "Kohat Enclave",
+   "name_current": "Kohat Enclave",
+   "name_hi": "कोहाट एन्क्लेव",
+   "x": 594.39,
+   "y": 1147.81,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NSHP": {
+   "name_dmrc_web": "Netaji Subhash Place",
+   "name_current": "Netaji Subhash Place",
+   "name_hi": "नेताजी सुभाष प्लेस",
+   "x": 663.33,
+   "y": 1081.52,
+   "interchange": true,
+   "lines": [
+    "Red Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Netaji Subhash Place"
+  },
+  "KP": {
+   "name_dmrc_web": "Keshav Puram",
+   "name_current": "Keshav Puram",
+   "name_hi": "केशव पुरम",
+   "x": 675.92,
+   "y": 1066.06,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KN": {
+   "name_dmrc_web": "Kanhaiya Nagar",
+   "name_current": "Kanhaiya Nagar",
+   "name_hi": "कन्हैया नगर",
+   "x": 685.59,
+   "y": 1056.3,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Kanhaiya Nagar"
+  },
+  "ILOK": {
+   "name_dmrc_web": "Inderlok",
+   "name_current": "Inderlok",
+   "name_hi": "इन्द्रलोक",
+   "x": 709.86,
+   "y": 1038.8,
+   "interchange": true,
+   "lines": [
+    "Red Line",
+    "Green Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Inderlok"
+  },
+  "SHT": {
+   "name_dmrc_web": "Shastri Nagar",
+   "name_current": "Shastri Nagar",
+   "name_hi": "शास्त्री नगर",
+   "x": 736.67,
+   "y": 1026.84,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PRA": {
+   "name_dmrc_web": "Pratap Nagar",
+   "name_current": "Pratap Nagar",
+   "name_hi": "प्रताप नगर",
+   "x": 770.19,
+   "y": 1026.84,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PBGH": {
+   "name_dmrc_web": "Pulbangash",
+   "name_current": "Pulbangash",
+   "name_hi": "पुलबंगश",
+   "x": 801.75,
+   "y": 1026.84,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "TZI": {
+   "name_dmrc_web": "Tis Hazari",
+   "name_current": "Tis Hazari",
+   "name_hi": "तीस हज़ारी",
+   "x": 837.25,
+   "y": 1026.84,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KG": {
+   "name_dmrc_web": "Kashmere Gate",
+   "name_current": "Kashmere Gate",
+   "name_hi": "कश्मीरी गेट",
+   "x": 855.63,
+   "y": 1026.84,
+   "interchange": true,
+   "lines": [
+    "Red Line",
+    "Yellow Line",
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Kashmere Gate"
+  },
+  "SHPK": {
+   "name_dmrc_web": "Shastri Park",
+   "name_current": "Shastri Park",
+   "name_hi": "शास्त्री पार्क",
+   "x": 976.83,
+   "y": 1026.84,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SLAP": {
+   "name_dmrc_web": "Seelampur",
+   "name_current": "Seelampur",
+   "name_hi": "सीलमपुर",
+   "x": 1017.45,
+   "y": 1053.19,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Seelampur"
+  },
+  "WC": {
+   "name_dmrc_web": "Welcome",
+   "name_current": "Welcome",
+   "name_hi": "वेलकम",
+   "x": 1046.09,
+   "y": 1080.42,
+   "interchange": true,
+   "lines": [
+    "Red Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Welcome"
+  },
+  "SHD": {
+   "name_dmrc_web": "Shahdara",
+   "name_current": "Shahdara",
+   "name_hi": "शाहदरा",
+   "x": 1087.84,
+   "y": 1113.86,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Shahdara"
+  },
+  "MPK": {
+   "name_dmrc_web": "Mansarovar Park",
+   "name_current": "Mansarovar Park",
+   "name_hi": "मानसरोवर पार्क",
+   "x": 1117.68,
+   "y": 1143.61,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JLML": {
+   "name_dmrc_web": "Jhilmil",
+   "name_current": "Jhilmil",
+   "name_hi": "झिलमिल",
+   "x": 1147.53,
+   "y": 1173.35,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSG": {
+   "name_dmrc_web": "Dilshad Garden",
+   "name_current": "Dilshad Garden",
+   "name_hi": "दिलशाद गार्डन",
+   "x": 1177.37,
+   "y": 1203.1,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SHDN": {
+   "name_dmrc_web": "Shaheed Nagar",
+   "name_current": "Shaheed Nagar",
+   "name_hi": "शहीद नगर",
+   "x": 1207.22,
+   "y": 1232.84,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "RJBH": {
+   "name_dmrc_web": "Raj Bagh",
+   "name_current": "Raj Bagh",
+   "name_hi": "राज बाग़",
+   "x": 1237.07,
+   "y": 1262.59,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "RJNM": {
+   "name_dmrc_web": "Major Mohit Sharma Rajendra Nagar",
+   "name_current": "Major Mohit Sharma Rajendra Nagar",
+   "name_hi": "मेजर मोहित शर्मा राजेन्द्र  नगर",
+   "x": 1266.91,
+   "y": 1292.33,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SMPK": {
+   "name_dmrc_web": "Shyam Park",
+   "name_current": "Shyam Park",
+   "name_hi": "श्याम पार्क",
+   "x": 1296.76,
+   "y": 1322.08,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MNGM": {
+   "name_dmrc_web": "Mohan Nagar",
+   "name_current": "Mohan Nagar",
+   "name_hi": "मोहन नगर",
+   "x": 1326.61,
+   "y": 1351.82,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "ATHA": {
+   "name_dmrc_web": "Arthala",
+   "name_current": "Arthala",
+   "name_hi": "अर्थला",
+   "x": 1356.45,
+   "y": 1381.57,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "HDNR": {
+   "name_dmrc_web": "Hindon River",
+   "name_current": "Hindon River",
+   "name_hi": "हिंडन रिवर",
+   "x": 1386.3,
+   "y": 1411.31,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NBAA": {
+   "name_dmrc_web": "Shaheed Sthal (New Bus Adda)",
+   "name_current": "Shaheed Sthal (New Bus Adda)",
+   "name_hi": "शहीद स्थल (न्यू  बस अड्डा)",
+   "x": 1410.24,
+   "y": 1434.85,
+   "interchange": false,
+   "lines": [
+    "Red Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SPBI": {
+   "name_dmrc_web": "Samaypur Badli",
+   "name_current": "Samaypur Badli",
+   "name_hi": "समयपुर बादली",
+   "x": 545.96,
+   "y": 1386.57,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "RISE": {
+   "name_dmrc_web": "Rohini Sector - 18,19",
+   "name_current": "Rohini Sector - 18,19",
+   "name_hi": "रोहिणी सेक्टर - 18,19",
+   "x": 594.52,
+   "y": 1337.89,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BIMR": {
+   "name_dmrc_web": "Haiderpur Badli Mor",
+   "name_current": "Haiderpur Badli Mor",
+   "name_hi": "हैदरपुर बादली मोड़",
+   "x": 658.35,
+   "y": 1277.25,
+   "interchange": false,
+   "lines": [
+    "Yellow Line",
+    "Magenta Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Haiderpur Badli Mor"
+  },
+  "JGPI": {
+   "name_dmrc_web": "JahangirPuri",
+   "name_current": "JahangirPuri",
+   "name_hi": "जहांगीरपुरी",
+   "x": 691.63,
+   "y": 1240.53,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Jahangirpuri"
+  },
+  "AHNR": {
+   "name_dmrc_web": "Adarsh Nagar",
+   "name_current": "Adarsh Nagar",
+   "name_hi": "आदर्श नगर",
+   "x": 728.36,
+   "y": 1203.38,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Adarsh Nagar"
+  },
+  "AZU": {
+   "name_dmrc_web": "Azadpur",
+   "name_current": "Azadpur",
+   "name_hi": "आजादपुर",
+   "x": 771.25,
+   "y": 1164.77,
+   "interchange": true,
+   "lines": [
+    "Yellow Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Azadpur"
+  },
+  "MDTW": {
+   "name_dmrc_web": "Model Town",
+   "name_current": "Model Town",
+   "name_hi": "मॉडल टाउन",
+   "x": 794.99,
+   "y": 1136.75,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "GTBR": {
+   "name_dmrc_web": "Guru Teg Bahadur Nagar",
+   "name_current": "Guru Teg Bahadur Nagar",
+   "name_hi": "गुरु तेग बहादुर नगर",
+   "x": 812.71,
+   "y": 1118.66,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "GTB Nagar"
+  },
+  "VW": {
+   "name_dmrc_web": "Vishwavidyalaya",
+   "name_current": "Vishwavidyalaya",
+   "name_hi": "विश्वविद्यालय",
+   "x": 829.35,
+   "y": 1102.42,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Vishwavidyalaya"
+  },
+  "VS": {
+   "name_dmrc_web": "Vidhan Sabha",
+   "name_current": "Vidhan Sabha",
+   "name_hi": "विधान सभा",
+   "x": 846.33,
+   "y": 1085.05,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Vidhan Sabha"
+  },
+  "CL": {
+   "name_dmrc_web": "Civil Lines",
+   "name_current": "Civil Lines",
+   "name_hi": "सिविल लाइंस",
+   "x": 857.62,
+   "y": 1061.95,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Civil Lines"
+  },
+  "CHK": {
+   "name_dmrc_web": "Chandni Chowk",
+   "name_current": "Chandni Chowk",
+   "name_hi": "चांदनी चौक",
+   "x": 855.63,
+   "y": 997.73,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "CWBR": {
+   "name_dmrc_web": "Chawri Bazar",
+   "name_current": "Chawri Bazar",
+   "name_hi": "चावड़ी बाज़ार",
+   "x": 855.63,
+   "y": 979.53,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Chawri Bazar"
+  },
+  "NDI": {
+   "name_dmrc_web": "New Delhi",
+   "name_current": "New Delhi",
+   "name_hi": "नई दिल्ली",
+   "x": 855.63,
+   "y": 969.2,
+   "interchange": true,
+   "lines": [
+    "Yellow Line",
+    "Orange Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "New Delhi"
+  },
+  "RCK": {
+   "name_dmrc_web": "Rajiv Chowk",
+   "name_current": "Rajiv Chowk",
+   "name_hi": "राजीव चौक",
+   "x": 855.63,
+   "y": 932.85,
+   "interchange": true,
+   "lines": [
+    "Yellow Line",
+    "Blue Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Rajiv Chowk"
+  },
+  "PTCK": {
+   "name_dmrc_web": "Patel Chowk",
+   "name_current": "Patel Chowk",
+   "name_hi": "पटेल चौक",
+   "x": 855.63,
+   "y": 871.88,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Patel Chowk"
+  },
+  "CTST": {
+   "name_dmrc_web": "Central Secretariat",
+   "name_current": "Central Secretariat",
+   "name_hi": "केन्द्रीय सचिवालय",
+   "x": 855.63,
+   "y": 805.85,
+   "interchange": true,
+   "lines": [
+    "Yellow Line",
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Central Secretariat"
+  },
+  "UDB": {
+   "name_dmrc_web": "Udyog Bhawan",
+   "name_current": "Seva Teerth",
+   "name_hi": "उद्योग भवन",
+   "x": 855.63,
+   "y": 771.43,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Seva Teerth (Udyog Bhawan)"
+  },
+  "LKM": {
+   "name_dmrc_web": "Lok Kalyan Marg",
+   "name_current": "Lok Kalyan Marg",
+   "name_hi": "लोक कल्याण मार्ग",
+   "x": 855.63,
+   "y": 748.38,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Lok Kalyan Marg"
+  },
+  "JB": {
+   "name_dmrc_web": "Jor Bagh",
+   "name_current": "Jor Bagh",
+   "name_hi": "जोर बाग़",
+   "x": 855.63,
+   "y": 731.66,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Jor Bagh"
+  },
+  "INA": {
+   "name_dmrc_web": "Dilli Haat-INA",
+   "name_current": "Dilli Haat-INA",
+   "name_hi": "दिल्ली हाट-आईएनए ",
+   "x": 855.63,
+   "y": 697.96,
+   "interchange": true,
+   "lines": [
+    "Yellow Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "INA"
+  },
+  "AIIMS": {
+   "name_dmrc_web": "AIIMS",
+   "name_current": "AIIMS",
+   "name_hi": "एम्स",
+   "x": 855.63,
+   "y": 640.56,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "GNPK": {
+   "name_dmrc_web": "Green Park",
+   "name_current": "Green Park",
+   "name_hi": "ग्रीन पार्क",
+   "x": 810.41,
+   "y": 598.84,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "HKS": {
+   "name_dmrc_web": "Hauz Khas",
+   "name_current": "Hauz Khas",
+   "name_hi": "हौज़ खास",
+   "x": 752.36,
+   "y": 549.53,
+   "interchange": true,
+   "lines": [
+    "Yellow Line",
+    "Magenta Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Hauz Khas"
+  },
+  "MVNR": {
+   "name_dmrc_web": "Malviya Nagar",
+   "name_current": "Malviya Nagar",
+   "name_hi": "मालवीय नगर",
+   "x": 752.36,
+   "y": 523.85,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SAKT": {
+   "name_dmrc_web": "Saket",
+   "name_current": "Saket",
+   "name_hi": "साकेत",
+   "x": 752.36,
+   "y": 498.73,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "QM": {
+   "name_dmrc_web": "Qutab Minar",
+   "name_current": "Qutab Minar",
+   "name_hi": "क़ुतुब मीनार",
+   "x": 752.36,
+   "y": 473.6,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "CHTP": {
+   "name_dmrc_web": "Chhatarpur",
+   "name_current": "Chhatarpur",
+   "name_hi": "छतरपुर",
+   "x": 752.36,
+   "y": 446.97,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SLTP": {
+   "name_dmrc_web": "Sultanpur",
+   "name_current": "Sultanpur",
+   "name_hi": "सुल्तानपुर",
+   "x": 752.36,
+   "y": 417.68,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "GTNI": {
+   "name_dmrc_web": "Ghitorni",
+   "name_current": "Ghitorni",
+   "name_hi": "घिटोरनी",
+   "x": 752.36,
+   "y": 400.28,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "AJG": {
+   "name_dmrc_web": "Arjan Garh",
+   "name_current": "Arjan Garh",
+   "name_hi": "अर्जन गढ़",
+   "x": 752.36,
+   "y": 382.87,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Arjangarh"
+  },
+  "GE": {
+   "name_dmrc_web": "Guru Dronacharya",
+   "name_current": "Guru Dronacharya",
+   "name_hi": "गुरु द्रोणाचार्य",
+   "x": 752.36,
+   "y": 365.48,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SKRP": {
+   "name_dmrc_web": "Sikanderpur",
+   "name_current": "Sikanderpur",
+   "name_hi": "सिकंदरपुर",
+   "x": 752.36,
+   "y": 341.71,
+   "interchange": true,
+   "lines": [
+    "Yellow Line",
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MGRO": {
+   "name_dmrc_web": "M.G. Road",
+   "name_current": "M.G. Road",
+   "name_hi": "एम.जी. रोड",
+   "x": 752.36,
+   "y": 300.39,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "IFOC": {
+   "name_dmrc_web": "IFFCO Chowk",
+   "name_current": "IFFCO Chowk",
+   "name_hi": "इफको चौक",
+   "x": 752.36,
+   "y": 239.74,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "HCC": {
+   "name_dmrc_web": "Millennium City Centre Gurugram",
+   "name_current": "Millennium City Centre Gurugram",
+   "name_hi": "मिलेनियम सिटी सेंटर गुरुग्राम",
+   "x": 752.36,
+   "y": 179.1,
+   "interchange": false,
+   "lines": [
+    "Yellow Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSTO": {
+   "name_dmrc_web": "Dwarka Sector - 21",
+   "name_current": "Dwarka Sector - 21",
+   "name_hi": "द्वारका सेक्टर - 21",
+   "x": 419.8,
+   "y": 226.67,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Orange Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSET": {
+   "name_dmrc_web": "Dwarka Sector - 8",
+   "name_current": "Dwarka Sector - 8",
+   "name_hi": "द्वारका सेक्टर - 8",
+   "x": 419.8,
+   "y": 284.7,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSN": {
+   "name_dmrc_web": "Dwarka Sector - 9",
+   "name_current": "Dwarka Sector - 9",
+   "name_hi": "द्वारका सेक्टर - 9",
+   "x": 419.8,
+   "y": 338.07,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DST": {
+   "name_dmrc_web": "Dwarka Sector - 10",
+   "name_current": "Dwarka Sector - 10",
+   "name_hi": "द्वारका सेक्टर - 10",
+   "x": 419.8,
+   "y": 391.44,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSE": {
+   "name_dmrc_web": "Dwarka Sector - 11",
+   "name_current": "Dwarka Sector - 11",
+   "name_hi": "द्वारका सेक्टर - 11",
+   "x": 419.8,
+   "y": 443.55,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSW": {
+   "name_dmrc_web": "Dwarka Sector - 12",
+   "name_current": "Dwarka Sector - 12",
+   "name_hi": "द्वारका सेक्टर - 12",
+   "x": 419.8,
+   "y": 498.19,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSTN": {
+   "name_dmrc_web": "Dwarka Sector - 13",
+   "name_current": "Dwarka Sector - 13",
+   "name_hi": "द्वारका सेक्टर - 13",
+   "x": 419.8,
+   "y": 551.56,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSFN": {
+   "name_dmrc_web": "Dwarka Sector - 14",
+   "name_current": "Dwarka Sector - 14",
+   "name_hi": "द्वारका सेक्टर - 14 ",
+   "x": 419.8,
+   "y": 604.93,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DW": {
+   "name_dmrc_web": "Dwarka",
+   "name_current": "Dwarka",
+   "name_hi": "द्वारका",
+   "x": 419.8,
+   "y": 665.62,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Grey Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DM": {
+   "name_dmrc_web": "Dwarka Mor",
+   "name_current": "Dwarka Mor",
+   "name_hi": "द्वारका मोड़",
+   "x": 419.8,
+   "y": 711.68,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NWD": {
+   "name_dmrc_web": "Nawada",
+   "name_current": "Nawada",
+   "name_hi": "नवादा",
+   "x": 419.8,
+   "y": 765.05,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "UNW": {
+   "name_dmrc_web": "Uttam Nagar West",
+   "name_current": "Uttam Nagar West",
+   "name_hi": "उत्तम नगर वेस्ट",
+   "x": 419.8,
+   "y": 818.42,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "UNE": {
+   "name_dmrc_web": "Uttam Nagar East",
+   "name_current": "Uttam Nagar East",
+   "name_hi": "उत्तम नगर ईस्ट",
+   "x": 419.8,
+   "y": 871.8,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JPW": {
+   "name_dmrc_web": "Janakpuri West",
+   "name_current": "Janakpuri West",
+   "name_hi": "जनकपुरी वेस्ट",
+   "x": 438.44,
+   "y": 909,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JPE": {
+   "name_dmrc_web": "Janakpuri East",
+   "name_current": "Janakpuri East",
+   "name_hi": "जनकपुरी ईस्ट",
+   "x": 463.37,
+   "y": 917.56,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "TN": {
+   "name_dmrc_web": "Tilak Nagar",
+   "name_current": "Tilak Nagar",
+   "name_hi": "तिलक नगर",
+   "x": 495.2,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SN": {
+   "name_dmrc_web": "Subhash Nagar",
+   "name_current": "Subhash Nagar",
+   "name_hi": "सुभाष नगर",
+   "x": 525.73,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "TG": {
+   "name_dmrc_web": "Tagore Garden",
+   "name_current": "Tagore Garden",
+   "name_hi": "टैगोर गार्डन",
+   "x": 558.34,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "RG": {
+   "name_dmrc_web": "Rajouri Garden",
+   "name_current": "Rajouri Garden",
+   "name_hi": "राजौरी गार्डन",
+   "x": 613.81,
+   "y": 925.37,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "RN": {
+   "name_dmrc_web": "Ramesh Nagar",
+   "name_current": "Ramesh Nagar",
+   "name_hi": "रमेश नगर",
+   "x": 644.3,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MN": {
+   "name_dmrc_web": "Moti Nagar",
+   "name_current": "Moti Nagar",
+   "name_hi": "मोती नगर",
+   "x": 658.08,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KNR": {
+   "name_dmrc_web": "Kirti Nagar",
+   "name_current": "Kirti Nagar",
+   "name_hi": "कीर्ति नगर",
+   "x": 683.69,
+   "y": 925.37,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SP": {
+   "name_dmrc_web": "Shadipur",
+   "name_current": "Shadipur",
+   "name_hi": "शादीपुर",
+   "x": 706.54,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PN": {
+   "name_dmrc_web": "Patel Nagar",
+   "name_current": "Patel Nagar",
+   "name_hi": "पटेल नगर",
+   "x": 721.59,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "RP": {
+   "name_dmrc_web": "Rajendra Place",
+   "name_current": "Rajendra Place",
+   "name_hi": "राजेंद्र प्लेस",
+   "x": 746.15,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Rajendra Place"
+  },
+  "KB": {
+   "name_dmrc_web": "Karol Bagh",
+   "name_current": "Karol Bagh",
+   "name_hi": "करोल बाग़",
+   "x": 762.17,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Karol Bagh"
+  },
+  "JW": {
+   "name_dmrc_web": "Jhandewalan",
+   "name_current": "Jhandewalan",
+   "name_hi": "झंडेवालान",
+   "x": 791.83,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Jhandewalan"
+  },
+  "RKAM": {
+   "name_dmrc_web": "Ramakrishna Ashram Marg",
+   "name_current": "Ramakrishna Ashram Marg",
+   "name_hi": "रामकृष्ण आश्रम मार्ग",
+   "x": 815.78,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "R.K. Ashram Marg"
+  },
+  "BRKR": {
+   "name_dmrc_web": "Barakhamba Road",
+   "name_current": "Barakhamba Road",
+   "name_hi": "बाराखंबा रोड",
+   "x": 896.27,
+   "y": 925.37,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Barakhamba Road"
+  },
+  "MDHS": {
+   "name_dmrc_web": "Mandi House",
+   "name_current": "Mandi House",
+   "name_hi": "मंडी हाउस",
+   "x": 925.24,
+   "y": 925.37,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Mandi House"
+  },
+  "PTMD": {
+   "name_dmrc_web": "Supreme Court",
+   "name_current": "Supreme Court",
+   "name_hi": "सुप्रीम कोर्ट",
+   "x": 950.22,
+   "y": 912.17,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Supreme Court"
+  },
+  "IDPT": {
+   "name_dmrc_web": "Indraprastha",
+   "name_current": "Indraprastha",
+   "name_hi": "इंद्रप्रस्थ",
+   "x": 970.12,
+   "y": 899.84,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Indraprastha"
+  },
+  "YB": {
+   "name_dmrc_web": "Yamuna Bank",
+   "name_current": "Yamuna Bank",
+   "name_hi": "यमुना बैंक",
+   "x": 992.03,
+   "y": 884.45,
+   "interchange": true,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "ASDM": {
+   "name_dmrc_web": "Akshardham",
+   "name_current": "Akshardham",
+   "name_hi": "अक्षरधाम",
+   "x": 1034.23,
+   "y": 846.93,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MVP1": {
+   "name_dmrc_web": "Mayur Vihar-1",
+   "name_current": "Mayur Vihar-1",
+   "name_hi": "मयूर विहार-1",
+   "x": 1068.18,
+   "y": 820.17,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MVE": {
+   "name_dmrc_web": "Mayur Vihar Extension",
+   "name_current": "Mayur Vihar Extension",
+   "name_hi": "मयूर विहार एक्सटेंशन",
+   "x": 1078.61,
+   "y": 805.21,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NAGR": {
+   "name_dmrc_web": "New Ashok Nagar",
+   "name_current": "New Ashok Nagar",
+   "name_hi": "न्यू अशोक नगर",
+   "x": 1099.09,
+   "y": 785.11,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NSFT": {
+   "name_dmrc_web": "Noida Sec-15",
+   "name_current": "Noida Sec-15",
+   "name_hi": "नोएडा सेक्टर-15",
+   "x": 1120.4,
+   "y": 764.87,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NSST": {
+   "name_dmrc_web": "Noida Sec-16",
+   "name_current": "Noida Sec-16",
+   "name_hi": "नोएडा सेक्टर-16",
+   "x": 1141.45,
+   "y": 745.1,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NSET": {
+   "name_dmrc_web": "Noida Sec-18",
+   "name_current": "Noida Sec-18",
+   "name_hi": "नोएडा सेक्टर-18",
+   "x": 1161.43,
+   "y": 726.44,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BCGN": {
+   "name_dmrc_web": "Botanical Garden",
+   "name_current": "Botanical Garden",
+   "name_hi": "बॉटेनिकल गार्डन",
+   "x": 1178.12,
+   "y": 715.14,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "GEC": {
+   "name_dmrc_web": "Golf Course",
+   "name_current": "Golf Course",
+   "name_hi": "गोल्फ कोर्स",
+   "x": 1217.59,
+   "y": 673.21,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NCC": {
+   "name_dmrc_web": "Noida City Centre",
+   "name_current": "Noida City Centre",
+   "name_hi": "नोएडा सिटी सेंटर",
+   "x": 1246.61,
+   "y": 645.76,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "STFN": {
+   "name_dmrc_web": "Sector-34 Noida",
+   "name_current": "Sector-34 Noida",
+   "name_hi": "सेक्टर-34 नोएडा",
+   "x": 1275.62,
+   "y": 618.31,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SFTN": {
+   "name_dmrc_web": "Sec-52 Noida",
+   "name_current": "Sec-52 Noida",
+   "name_hi": "सेक्टर-52 नोएडा",
+   "x": 1304.64,
+   "y": 590.86,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SSON": {
+   "name_dmrc_web": "Sec-61 Noida",
+   "name_current": "Sec-61 Noida",
+   "name_hi": "सेक्टर-61 नोएडा",
+   "x": 1333.66,
+   "y": 563.41,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SFNN": {
+   "name_dmrc_web": "Sec-59 Noida",
+   "name_current": "Sec-59 Noida",
+   "name_hi": "सेक्टर-59 नोएडा",
+   "x": 1362.67,
+   "y": 535.96,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SSTN": {
+   "name_dmrc_web": "Sec-62 Noida",
+   "name_current": "Sec-62 Noida",
+   "name_hi": "सेक्टर-62 नोएडा",
+   "x": 1391.69,
+   "y": 508.51,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NECC": {
+   "name_dmrc_web": "Noida Electronic City",
+   "name_current": "Noida Electronic City",
+   "name_hi": "नोएडा इलेक्ट्रॉनिक सिटी",
+   "x": 1420.22,
+   "y": 481.72,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "LN": {
+   "name_dmrc_web": "Laxmi Nagar",
+   "name_current": "Laxmi Nagar",
+   "name_hi": "लक्ष्मी नगर",
+   "x": 1026.16,
+   "y": 909.31,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NV": {
+   "name_dmrc_web": "Nirman Vihar",
+   "name_current": "Nirman Vihar",
+   "name_hi": "निर्माण विहार",
+   "x": 1047.94,
+   "y": 930.32,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PTVR": {
+   "name_dmrc_web": "Preet Vihar",
+   "name_current": "Preet Vihar",
+   "name_hi": "प्रीत विहार",
+   "x": 1069.11,
+   "y": 951.01,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KKDA": {
+   "name_dmrc_web": "Karkarduma",
+   "name_current": "Karkarduma",
+   "name_hi": "कड़कड़डूमा",
+   "x": 1091.31,
+   "y": 975.43,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "AVIT": {
+   "name_dmrc_web": "Anand Vihar I.S.B.T",
+   "name_current": "Anand Vihar I.S.B.T",
+   "name_hi": "आनंद विहार आईएसबीटी",
+   "x": 1126.74,
+   "y": 1005.98,
+   "interchange": true,
+   "lines": [
+    "Blue Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KSHI": {
+   "name_dmrc_web": "Kaushambi",
+   "name_current": "Kaushambi",
+   "name_hi": "कौशांबी",
+   "x": 1178.8,
+   "y": 1056.74,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "VASI": {
+   "name_dmrc_web": "Vaishali",
+   "name_current": "Vaishali",
+   "name_hi": "वैशाली",
+   "x": 1239.61,
+   "y": 1115.42,
+   "interchange": false,
+   "lines": [
+    "Blue Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "CIPK": {
+   "name_dmrc_web": "Brig. Hoshiar Singh",
+   "name_current": "Brig. Hoshiar Singh",
+   "name_hi": "ब्रिगेडियर होशियार सिंह",
+   "x": 39.4,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BUSS": {
+   "name_dmrc_web": "Bahadurgarh City",
+   "name_current": "Bahadurgarh City",
+   "name_hi": "बहादुरगढ़ सिटी",
+   "x": 69.46,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MIEE": {
+   "name_dmrc_web": "Pandit Shree Ram Sharma",
+   "name_current": "Pandit Shree Ram Sharma",
+   "name_hi": "पंडित श्री राम शर्मा",
+   "x": 99.52,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "TKBR": {
+   "name_dmrc_web": "Tikri Border",
+   "name_current": "Tikri Border",
+   "name_hi": "टिकरी बॉर्डर",
+   "x": 129.58,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "TKLM": {
+   "name_dmrc_web": "Tikri Kalan",
+   "name_current": "Tikri Kalan",
+   "name_hi": "टिकरी कलाँ",
+   "x": 159.63,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "GHEM": {
+   "name_dmrc_web": "Ghevra Metro Station",
+   "name_current": "Ghevra Metro Station",
+   "name_hi": "घेवरा मेट्रो स्टेशन",
+   "x": 189.69,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MIAA": {
+   "name_dmrc_web": "Mundka Industrial Area (MIA)",
+   "name_current": "Mundka Industrial Area (MIA)",
+   "name_hi": "मुंडका इंडस्ट्रियल एरिया (ऍमआईए)",
+   "x": 219.75,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MUDK": {
+   "name_dmrc_web": "Mundka",
+   "name_current": "Mundka",
+   "name_hi": "मुंडका",
+   "x": 249.81,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "RDPK": {
+   "name_dmrc_web": "Rajdhani Park",
+   "name_current": "Rajdhani Park",
+   "name_hi": "राजधानी पार्क",
+   "x": 279.86,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NRSN": {
+   "name_dmrc_web": "Nangloi Railway Station",
+   "name_current": "Nangloi Railway Station",
+   "name_hi": "नांगलोई रेलवे स्टेशन",
+   "x": 309.92,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NNOI": {
+   "name_dmrc_web": "Nangloi",
+   "name_current": "Nangloi",
+   "name_hi": "नांगलोई",
+   "x": 339.98,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SMSM": {
+   "name_dmrc_web": "Maharaja Surajmal Stadium",
+   "name_current": "Maharaja Surajmal Stadium",
+   "name_hi": "महाराजा सूरजमल स्टेडियम",
+   "x": 370.04,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "UNRG": {
+   "name_dmrc_web": "Udyog Nagar",
+   "name_current": "Udyog Nagar",
+   "name_hi": "उद्योग नगर",
+   "x": 400.1,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PAGI": {
+   "name_dmrc_web": "Peeragarhi",
+   "name_current": "Peeragarhi",
+   "name_hi": "पीरागढ़ी",
+   "x": 446.72,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line",
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PVW": {
+   "name_dmrc_web": "Paschim Vihar West",
+   "name_current": "Paschim Vihar West",
+   "name_hi": "पश्चिम विहार पश्चिम",
+   "x": 474.22,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PVE": {
+   "name_dmrc_web": "Paschim Vihar East",
+   "name_current": "Paschim Vihar East",
+   "name_hi": "पश्चिम विहार पूर्व",
+   "x": 508.95,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MAPR": {
+   "name_dmrc_web": "Madipur",
+   "name_current": "Madipur",
+   "name_hi": "मादीपुर",
+   "x": 540.45,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SHVP": {
+   "name_dmrc_web": "Shivaji Park",
+   "name_current": "Shivaji Park",
+   "name_hi": "शिवाजी पार्क",
+   "x": 567.84,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PBGW": {
+   "name_dmrc_web": "Punjabi Bagh West",
+   "name_current": "Punjabi Bagh West",
+   "name_hi": "पंजाबी बाग़ वेस्ट",
+   "x": 614.95,
+   "y": 980.04,
+   "interchange": true,
+   "lines": [
+    "Green Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PBGA": {
+   "name_dmrc_web": "Punjabi Bagh",
+   "name_current": "Punjabi Bagh",
+   "name_hi": "पंजाबी बाग़",
+   "x": 645.1,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "APMN": {
+   "name_dmrc_web": "Ashok Park Main",
+   "name_current": "Ashok Park Main",
+   "name_hi": "अशोक पार्क मेन",
+   "x": 672.69,
+   "y": 980.04,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SRSM": {
+   "name_dmrc_web": "Satguru Ram Singh Marg",
+   "name_current": "Satguru Ram Singh Marg",
+   "name_hi": "सतगुरु राम सिंह मार्ग",
+   "x": 679.42,
+   "y": 956.86,
+   "interchange": false,
+   "lines": [
+    "Green Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "LLQA": {
+   "name_dmrc_web": "Lal Quila",
+   "name_current": "Lal Quila",
+   "name_hi": "लाल किला",
+   "x": 925.24,
+   "y": 1013.59,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JAMD": {
+   "name_dmrc_web": "Jama Masjid",
+   "name_current": "Jama Masjid",
+   "name_hi": "जामा मस्जिद",
+   "x": 925.24,
+   "y": 993.71,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Jama Masjid"
+  },
+  "DLIG": {
+   "name_dmrc_web": "Delhi Gate",
+   "name_current": "Delhi Gate",
+   "name_hi": "दिल्ली गेट",
+   "x": 925.24,
+   "y": 981.4,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Delhi Gate"
+  },
+  "ITO": {
+   "name_dmrc_web": "ITO",
+   "name_current": "ITO",
+   "name_hi": "आईटीओ",
+   "x": 925.24,
+   "y": 946.34,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "ITO"
+  },
+  "JNPH": {
+   "name_dmrc_web": "Janpath",
+   "name_current": "Janpath",
+   "name_hi": "जनपथ",
+   "x": 925.24,
+   "y": 848.99,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Janpath"
+  },
+  "KM": {
+   "name_dmrc_web": "Khan Market",
+   "name_current": "Khan Market",
+   "name_hi": "खान मार्केट",
+   "x": 873.5,
+   "y": 762.32,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Khan Market"
+  },
+  "JLNS": {
+   "name_dmrc_web": "JLN Stadium",
+   "name_current": "JLN Stadium",
+   "name_hi": "जे.एल.एन स्टेडियम",
+   "x": 920.29,
+   "y": 754.64,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JGPA": {
+   "name_dmrc_web": "Jangpura",
+   "name_current": "Jangpura",
+   "name_hi": "जंगपुरा",
+   "x": 928.39,
+   "y": 732.23,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Jangpura"
+  },
+  "LJPN": {
+   "name_dmrc_web": "Lajpat Nagar",
+   "name_current": "Lajpat Nagar",
+   "name_hi": "लाजपत नगर",
+   "x": 928.39,
+   "y": 707.88,
+   "interchange": true,
+   "lines": [
+    "Violet Line",
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Lajpat Nagar"
+  },
+  "MLCD": {
+   "name_dmrc_web": "Moolchand",
+   "name_current": "Moolchand",
+   "name_hi": "मूलचंद",
+   "x": 927.96,
+   "y": 670.93,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KHCY": {
+   "name_dmrc_web": "Kailash Colony",
+   "name_current": "Kailash Colony",
+   "name_hi": "कैलाश कॉलोनी",
+   "x": 928.25,
+   "y": 633.19,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NP": {
+   "name_dmrc_web": "Nehru Place",
+   "name_current": "Nehru Place",
+   "name_hi": "नेहरू प्लेस",
+   "x": 928.55,
+   "y": 593.57,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KJMD": {
+   "name_dmrc_web": "Kalkaji Mandir",
+   "name_current": "Kalkaji Mandir",
+   "name_hi": "कालकाजी मंदिर",
+   "x": 930.36,
+   "y": 548.36,
+   "interchange": true,
+   "lines": [
+    "Violet Line",
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "GDPI": {
+   "name_dmrc_web": "Govind Puri",
+   "name_current": "Govind Puri",
+   "name_hi": "गोविंद पुरी",
+   "x": 928.39,
+   "y": 520.76,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "HNOK": {
+   "name_dmrc_web": "Harkesh Nagar Okhla",
+   "name_current": "Harkesh Nagar Okhla",
+   "name_hi": "हरकेश नगर ओखला",
+   "x": 928.39,
+   "y": 500.71,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JLA": {
+   "name_dmrc_web": "Jasola Apollo",
+   "name_current": "Jasola Apollo",
+   "name_hi": "जसोला अपोलो",
+   "x": 928.39,
+   "y": 480.65,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "STVR": {
+   "name_dmrc_web": "Sarita Vihar",
+   "name_current": "Sarita Vihar",
+   "name_hi": "सरिता विहार",
+   "x": 928.39,
+   "y": 460.6,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "METE": {
+   "name_dmrc_web": "Mohan Estate",
+   "name_current": "Mohan Estate",
+   "name_hi": "मोहन एस्टेट",
+   "x": 928.39,
+   "y": 440.55,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "TKDS": {
+   "name_dmrc_web": "Tughlakabad Station",
+   "name_current": "Tughlakabad Station",
+   "name_hi": "तुगलकाबाद स्टेशन",
+   "x": 928.39,
+   "y": 427.97,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BAPB": {
+   "name_dmrc_web": "Badarpur Border",
+   "name_current": "Badarpur Border",
+   "name_hi": "बदरपुर बॉर्डर",
+   "x": 928.39,
+   "y": 400.44,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SRAI": {
+   "name_dmrc_web": "Sarai",
+   "name_current": "Sarai",
+   "name_hi": "सराय",
+   "x": 928.39,
+   "y": 380.38,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NHPC": {
+   "name_dmrc_web": "NHPC Chowk",
+   "name_current": "NHPC Chowk",
+   "name_hi": "एनएचपीसी चौक",
+   "x": 928.39,
+   "y": 360.33,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MMJR": {
+   "name_dmrc_web": "Mewala Maharajpur",
+   "name_current": "Mewala Maharajpur",
+   "name_hi": "मेवाला महाराजपुर",
+   "x": 928.39,
+   "y": 340.28,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "STTA": {
+   "name_dmrc_web": "Sector-28",
+   "name_current": "Sector-28",
+   "name_hi": "सेक्टर-28",
+   "x": 928.39,
+   "y": 320.22,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BKMR": {
+   "name_dmrc_web": "Badkal Mor",
+   "name_current": "Badkal Mor",
+   "name_hi": "बड़कल मोड़",
+   "x": 928.39,
+   "y": 300.17,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "OFDB": {
+   "name_dmrc_web": "Old Faridabad",
+   "name_current": "Old Faridabad",
+   "name_hi": "ओल्ड फरीदाबाद",
+   "x": 928.39,
+   "y": 280.12,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NCAJ": {
+   "name_dmrc_web": "Neelam Chowk Ajronda",
+   "name_current": "Neelam Chowk Ajronda",
+   "name_hi": "नीलम चौक अजरौंदा",
+   "x": 928.39,
+   "y": 260.06,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BACH": {
+   "name_dmrc_web": "Bata Chowk",
+   "name_current": "Bata Chowk",
+   "name_hi": "बाटा चौक",
+   "x": 928.39,
+   "y": 240.01,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "ECMJ": {
+   "name_dmrc_web": "Ecorts Mujesar",
+   "name_current": "Ecorts Mujesar",
+   "name_hi": "एस्कॉर्ट्स मुजेसर",
+   "x": 928.39,
+   "y": 219.95,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NCBC": {
+   "name_dmrc_web": "Sant Surdas (Sihi)",
+   "name_current": "Sant Surdas (Sihi)",
+   "name_hi": "संत सूरदास (सिही)",
+   "x": 928.39,
+   "y": 199.9,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BVHM": {
+   "name_dmrc_web": "Raja Nahar Singh(Ballabgarh)",
+   "name_current": "Raja Nahar Singh(Ballabgarh)",
+   "name_hi": "राजा नाहर सिंह (बल्लभगढ़)",
+   "x": 928.39,
+   "y": 179.85,
+   "interchange": false,
+   "lines": [
+    "Violet Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MKPR": {
+   "name_dmrc_web": "Majlis Park",
+   "name_current": "Majlis Park",
+   "name_hi": "मजलिस पार्क",
+   "x": 812.31,
+   "y": 1175.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line",
+    "Magenta Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Majlis Park"
+  },
+  "SMBG": {
+   "name_dmrc_web": "Shalimar Bagh",
+   "name_current": "Shalimar Bagh",
+   "name_hi": "शालीमार बाग",
+   "x": 720.31,
+   "y": 1128.08,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Shalimar Bagh"
+  },
+  "SAKP": {
+   "name_dmrc_web": "Shakurpur",
+   "name_current": "Shakurpur",
+   "name_hi": "शकूरपुर",
+   "x": 643.4,
+   "y": 1037.84,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "ESIH": {
+   "name_dmrc_web": "ESI-Basaidarapur",
+   "name_current": "ESI-Basaidarapur",
+   "name_hi": "ईएसआई-बसैदरापुर",
+   "x": 616.32,
+   "y": 943.3,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MYPI": {
+   "name_dmrc_web": "Mayapuri",
+   "name_current": "Mayapuri",
+   "name_hi": "मायापुरी",
+   "x": 626.63,
+   "y": 873.75,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NAVR": {
+   "name_dmrc_web": "Naraina Vihar",
+   "name_current": "Naraina Vihar",
+   "name_hi": "नारायणा विहार",
+   "x": 648.5,
+   "y": 818.63,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DLIC": {
+   "name_dmrc_web": "Delhi Cantt",
+   "name_current": "Delhi Cantt",
+   "name_hi": "दिल्ली कैंट",
+   "x": 684.74,
+   "y": 768.63,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DDSC": {
+   "name_dmrc_web": "Durgabai Deshmukh South Campus",
+   "name_current": "Durgabai Deshmukh South Campus",
+   "name_hi": "दुर्गाबाई देशमुख साउथ कैंपस",
+   "x": 740.34,
+   "y": 725.51,
+   "interchange": false,
+   "lines": [
+    "Pink Line",
+    "Grey Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SVMB": {
+   "name_dmrc_web": "Sir M. Vishweshwaraiah Moti Bagh",
+   "name_current": "Sir M. Vishweshwaraiah Moti Bagh",
+   "name_hi": "सर म. विश्वेश्वरैया मोती बाग",
+   "x": 766,
+   "y": 713.16,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BKCP": {
+   "name_dmrc_web": "Bhikaji Cama Place",
+   "name_current": "Bhikaji Cama Place",
+   "name_hi": "भीकाजी कामा प्लेस",
+   "x": 791.84,
+   "y": 703.61,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SOJI": {
+   "name_dmrc_web": "Sarojini Nagar",
+   "name_current": "Sarojini Nagar",
+   "name_hi": "सरोजिनी नगर",
+   "x": 827.68,
+   "y": 696.77,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SOEN": {
+   "name_dmrc_web": "South Extention",
+   "name_current": "South Extention",
+   "name_hi": "साउथ एक्सटेंशन",
+   "x": 888.08,
+   "y": 696.66,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "VNPR": {
+   "name_dmrc_web": "Vinobapuri",
+   "name_current": "Vinobapuri",
+   "name_hi": "विनोबापुरी",
+   "x": 969.99,
+   "y": 722.21,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "AHRM": {
+   "name_dmrc_web": "Ashram",
+   "name_current": "Ashram",
+   "name_hi": "आश्रम",
+   "x": 1005.5,
+   "y": 745.1,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Ashram"
+  },
+  "NIZM": {
+   "name_dmrc_web": "Sarai Kale Khan Nizamuddin",
+   "name_current": "Sarai Kale Khan Nizamuddin",
+   "name_hi": "सराय काले खान निज़ामुद्दीन",
+   "x": 1030.04,
+   "y": 770.79,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Sarai Kale Khan-Nizamuddin"
+  },
+  "MVPO": {
+   "name_dmrc_web": "Mayur Vihar Pocket-1",
+   "name_current": "Shri Ram Mandir Mayur Vihar",
+   "name_hi": "मयूर विहार पॉकेट-1",
+   "x": 1075.97,
+   "y": 836.03,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "TKPR": {
+   "name_dmrc_web": "Trilokpuri-Sanjay Lake",
+   "name_current": "Trilokpuri-Sanjay Lake",
+   "name_hi": "त्रिलोकपुरी-संजय झील",
+   "x": 1084.48,
+   "y": 858.59,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "VENT": {
+   "name_dmrc_web": "East Vinod Nagar-Mayur Vihar -II",
+   "name_current": "East Vinod Nagar-Mayur Vihar -II",
+   "name_hi": "पूर्वी विनोद नगर-मयूर विहार-II",
+   "x": 1091.07,
+   "y": 883.82,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "VNNR": {
+   "name_dmrc_web": "Mandawali West Vinod Nagar",
+   "name_current": "Mandawali West Vinod Nagar",
+   "name_hi": "मंडावली पश्चिम विनोद नगर",
+   "x": 1095.32,
+   "y": 916.55,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "IPE": {
+   "name_dmrc_web": "IP Extension",
+   "name_current": "IP Extension",
+   "name_hi": "आईपी ​​एक्सटेंशन",
+   "x": 1095.32,
+   "y": 946.34,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KKDC": {
+   "name_dmrc_web": "Karkarduma Court",
+   "name_current": "Karkarduma Court",
+   "name_hi": "कड़कड़डूमा कोर्ट",
+   "x": 1086.83,
+   "y": 998.5,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KHNA": {
+   "name_dmrc_web": "Krishna Nagar",
+   "name_current": "Krishna Nagar",
+   "name_hi": "कृष्णा नगर",
+   "x": 1076.37,
+   "y": 1029.16,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "EANR": {
+   "name_dmrc_web": "East Azad Nagar",
+   "name_current": "East Azad Nagar",
+   "name_hi": "पूर्वी आजाद नगर",
+   "x": 1062.5,
+   "y": 1056.51,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JFRB": {
+   "name_dmrc_web": "Jafrabad",
+   "name_current": "Jafrabad",
+   "name_hi": "जफराबाद",
+   "x": 1048.34,
+   "y": 1156.71,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Jafrabad"
+  },
+  "MUPR": {
+   "name_dmrc_web": "Maujpur-Babarpur",
+   "name_current": "Maujpur-Babarpur",
+   "name_hi": "मौजपुर-बाबरपुर",
+   "x": 1048.34,
+   "y": 1208.26,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Maujpur"
+  },
+  "GKPR": {
+   "name_dmrc_web": "Gokulpuri",
+   "name_current": "Gokulpuri",
+   "name_hi": "गोकुलपुरी",
+   "x": 1048.34,
+   "y": 1259.82,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JIEE": {
+   "name_dmrc_web": "Johri Enclave",
+   "name_current": "Johri Enclave",
+   "name_hi": "जौहरी एन्क्लेव",
+   "x": 1048.34,
+   "y": 1311.37,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SVVR": {
+   "name_dmrc_web": "Shiv Vihar",
+   "name_current": "Shiv Vihar",
+   "name_hi": "शिव विहार",
+   "x": 1048.34,
+   "y": 1362.93,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "YMVR": {
+   "name_dmrc_web": "Yamuna Vihar",
+   "name_current": "Yamuna Vihar",
+   "name_hi": "यमुना विहार",
+   "x": 995.31,
+   "y": 1175.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Yamuna Vihar"
+  },
+  "BJPU": {
+   "name_dmrc_web": "Bhajanpura",
+   "name_current": "Bhajanpura",
+   "name_hi": "भजनपुरा",
+   "x": 960.31,
+   "y": 1165.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KJKS": {
+   "name_dmrc_web": "Khajuri Khas",
+   "name_current": "Khajuri Khas",
+   "name_hi": "खजूरी खास",
+   "x": 935.31,
+   "y": 1150.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Khajuri Khas"
+  },
+  "SNVH": {
+   "name_dmrc_web": "Sonia Vihar",
+   "name_current": "Sonia Vihar",
+   "name_hi": "सोनिया विहार",
+   "x": 895.31,
+   "y": 1135.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SOOG": {
+   "name_dmrc_web": "Soorghat",
+   "name_current": "Soorghat",
+   "name_hi": "सोरघाट",
+   "x": 855.31,
+   "y": 1125.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JPVE": {
+   "name_dmrc_web": "Jagatpur Village",
+   "name_current": "Jagatpur Village",
+   "name_hi": "जगतपुर गांव",
+   "x": 833.31,
+   "y": 1140.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JRMR": {
+   "name_dmrc_web": "Jharoda Majra",
+   "name_current": "Jharoda Majra",
+   "name_hi": "झारोदा माजरा",
+   "x": 824.31,
+   "y": 1155.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BURI": {
+   "name_dmrc_web": "Burari",
+   "name_current": "Burari",
+   "name_hi": "बुराड़ी",
+   "x": 818.31,
+   "y": 1165.94,
+   "interchange": false,
+   "lines": [
+    "Pink Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "KPEN": {
+   "name_dmrc_web": "Krishna Park Extension",
+   "name_current": "Krishna Park Extension",
+   "name_hi": "कृष्णा पार्क एक्सटेंशन",
+   "x": 440.44,
+   "y": 932,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DBMR": {
+   "name_dmrc_web": "Dabri Mor- Janakpuri South",
+   "name_current": "Dabri Mor- Janakpuri South",
+   "name_hi": "डाबरी मोड़- जनकपुरी साउथ",
+   "x": 444.96,
+   "y": 865.43,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DSHP": {
+   "name_dmrc_web": "Dashrathpuri",
+   "name_current": "Dashrathpuri",
+   "name_hi": "दशरथपुरी",
+   "x": 461.36,
+   "y": 800.6,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PALM": {
+   "name_dmrc_web": "Palam",
+   "name_current": "Palam",
+   "name_hi": "पालम",
+   "x": 490.56,
+   "y": 735.87,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SABR": {
+   "name_dmrc_web": "Sadar Bazar Cantonment",
+   "name_current": "Sadar Bazar Cantonment",
+   "name_hi": "सदर बाजार छावनी",
+   "x": 534.09,
+   "y": 675.76,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "IGDA": {
+   "name_dmrc_web": "Terminal-1 IGI Airport",
+   "name_current": "Terminal-1 IGI Airport",
+   "name_hi": "टर्मिनल-1 आईजीआई हवाई अड्डा",
+   "x": 587.8,
+   "y": 625.8,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SKVR": {
+   "name_dmrc_web": "Shankar Vihar",
+   "name_current": "Shankar Vihar",
+   "name_hi": "शंकर विहार",
+   "x": 651.3,
+   "y": 581.95,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "VTVR": {
+   "name_dmrc_web": "Vasant Vihar",
+   "name_current": "Vasant Vihar",
+   "name_hi": "वसंत विहार",
+   "x": 671.43,
+   "y": 573.06,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MIRK": {
+   "name_dmrc_web": "Munirka",
+   "name_current": "Munirka",
+   "name_hi": "मुनिरका",
+   "x": 692.46,
+   "y": 564.65,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "RKPM": {
+   "name_dmrc_web": "R K Puram",
+   "name_current": "R K Puram",
+   "name_hi": "आर के पुरम",
+   "x": 713.67,
+   "y": 556.79,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "IIT": {
+   "name_dmrc_web": "IIT",
+   "name_current": "IIT",
+   "name_hi": "आईआईटी",
+   "x": 735.06,
+   "y": 550.6,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PSPK": {
+   "name_dmrc_web": "Panchsheel Park",
+   "name_current": "Panchsheel Park",
+   "name_hi": "पंचशील पार्क",
+   "x": 788.25,
+   "y": 541.26,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "CDLI": {
+   "name_dmrc_web": "Chirag Delhi",
+   "name_current": "Chirag Delhi",
+   "name_hi": "चिराग दिल्ली",
+   "x": 828.11,
+   "y": 537.58,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "GKEI": {
+   "name_dmrc_web": "Greater Kailash",
+   "name_current": "Greater Kailash",
+   "name_hi": "ग्रेटर कैलाश",
+   "x": 878.36,
+   "y": 538.26,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NUEE": {
+   "name_dmrc_web": "Nehru Enclave",
+   "name_current": "Nehru Enclave",
+   "name_hi": "नेहरू एन्क्लेव",
+   "x": 904.05,
+   "y": 540.91,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "OKNS": {
+   "name_dmrc_web": "Okhla NSIC",
+   "name_current": "Okhla NSIC",
+   "name_hi": "ओखला एनएसआईसी",
+   "x": 955.72,
+   "y": 551.36,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "IWNR": {
+   "name_dmrc_web": "Sukhdev Vihar",
+   "name_current": "Sukhdev Vihar",
+   "name_hi": "सुखदेव विहार",
+   "x": 995.23,
+   "y": 564.63,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "JANR": {
+   "name_dmrc_web": "Jamia Millia Islamia",
+   "name_current": "Jamia Millia Islamia",
+   "name_hi": "जामिया मिलिया इस्लामिया",
+   "x": 1036.63,
+   "y": 582.41,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Jamia Millia Islamia"
+  },
+  "OVA": {
+   "name_dmrc_web": "Okhla Vihar",
+   "name_current": "Okhla Vihar",
+   "name_hi": "ओखला विहार",
+   "x": 1076.63,
+   "y": 606.13,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Okhla Vihar"
+  },
+  "JLA8": {
+   "name_dmrc_web": "Jasola Vihar Shaheen Bagh",
+   "name_current": "Jasola Vihar Shaheen Bagh",
+   "name_hi": "जसोला विहार शाहीन बाग",
+   "x": 1111.36,
+   "y": 632.09,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Jasola"
+  },
+  "KIKJ": {
+   "name_dmrc_web": "Kalindi Kunj",
+   "name_current": "Kalindi Kunj",
+   "name_hi": "कालिंदी कुंज",
+   "x": 1140.69,
+   "y": 659.63,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Kalindi Kunj"
+  },
+  "OKBS": {
+   "name_dmrc_web": "Okhla Bird Sanctuary",
+   "name_current": "Okhla Bird Sanctuary",
+   "name_hi": "ओखला बर्ड सैंक्चुअरी",
+   "x": 1167.62,
+   "y": 689.67,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BLSW": {
+   "name_dmrc_web": "Bhalaswa",
+   "name_current": "Bhalaswa",
+   "name_hi": "भलस्वा",
+   "x": 734.35,
+   "y": 1260.5,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NONE": {
+   "name_dmrc_web": "",
+   "name_current": "",
+   "name_hi": "",
+   "x": 698.35,
+   "y": 1298.25,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NPPR": {
+   "name_dmrc_web": "North Pitampura",
+   "name_current": "North Pitampura",
+   "name_hi": "नॉर्थ पीतमपुरा",
+   "x": 615,
+   "y": 1257.34,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PHVR": {
+   "name_dmrc_web": "Prashant Vihar",
+   "name_current": "Prashant Vihar",
+   "name_hi": "प्रशांत विहार",
+   "x": 572,
+   "y": 1237.67,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DPCK": {
+   "name_dmrc_web": "Deepali chowk",
+   "name_current": "Deepali chowk",
+   "name_hi": "दीपाली चौक",
+   "x": 510.48,
+   "y": 1180.22,
+   "interchange": false,
+   "lines": [
+    "Magenta Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NNGI": {
+   "name_dmrc_web": "Nangli",
+   "name_current": "Nangli",
+   "name_hi": "नंगली",
+   "x": 389.8,
+   "y": 665.62,
+   "interchange": false,
+   "lines": [
+    "Grey Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "NFGH": {
+   "name_dmrc_web": "Najafgarh",
+   "name_current": "Najafgarh",
+   "name_hi": "नजफगढ़",
+   "x": 369.8,
+   "y": 665.62,
+   "interchange": false,
+   "lines": [
+    "Grey Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DNBT": {
+   "name_dmrc_web": "Dhansa Bus Stand",
+   "name_current": "Dhansa Bus Stand",
+   "name_hi": "ढांसा बस स्टैंड",
+   "x": 349.8,
+   "y": 665.62,
+   "interchange": false,
+   "lines": [
+    "Grey Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DKV": {
+   "name_dmrc_web": "Dhaula Kuan",
+   "name_current": "Dhaula Kuan",
+   "name_hi": "धौला कुआँ",
+   "x": 714.95,
+   "y": 712.66,
+   "interchange": false,
+   "lines": [
+    "Grey Line",
+    "Orange Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SJSU": {
+   "name_dmrc_web": "Shivaji Stadium",
+   "name_current": "Shivaji Stadium",
+   "name_hi": "शिवाजी स्टेडियम",
+   "x": 788.4,
+   "y": 839.12,
+   "interchange": false,
+   "lines": [
+    "Orange Line"
+   ],
+   "gates_shut_requested": true,
+   "name_as_listed": "Shivaji Stadium"
+  },
+  "DACY": {
+   "name_dmrc_web": "Delhi Aerocity",
+   "name_current": "Delhi Aerocity",
+   "name_hi": "दिल्ली एयरोसिटी",
+   "x": 629.97,
+   "y": 565.5,
+   "interchange": false,
+   "lines": [
+    "Orange Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "APOT": {
+   "name_dmrc_web": "Airport(T-3)",
+   "name_current": "Airport(T-3)",
+   "name_hi": "एयरपोर्ट(टी-3)",
+   "x": 550.54,
+   "y": 427.18,
+   "interchange": false,
+   "lines": [
+    "Orange Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "IICC": {
+   "name_dmrc_web": "Yashobhoomi Dwarka Sector - 25",
+   "name_current": "Yashobhoomi Dwarka Sector - 25",
+   "name_hi": "यशोभूमि द्वारका सेक्टर - 25",
+   "x": 351.8,
+   "y": 126.67,
+   "interchange": false,
+   "lines": [
+    "Orange Line"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DL2": {
+   "name_dmrc_web": "Phase-2",
+   "name_current": "Phase-2",
+   "name_hi": "फेज 2",
+   "x": 700.77,
+   "y": 341.71,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "BEL": {
+   "name_dmrc_web": "Belvedere Towers",
+   "name_current": "Belvedere Towers",
+   "name_hi": "बेलवेडरे टावर्स",
+   "x": 615.63,
+   "y": 341.71,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "GAT": {
+   "name_dmrc_web": "Cyber City",
+   "name_current": "Cyber City",
+   "name_hi": "साइबर सिटी",
+   "x": 624.76,
+   "y": 400.88,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "MAL": {
+   "name_dmrc_web": "Moulsari Avenue",
+   "name_current": "Moulsari Avenue",
+   "name_hi": "मॉलसरी एवेन्यू",
+   "x": 634.14,
+   "y": 435.19,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "DL3": {
+   "name_dmrc_web": "Phase-3",
+   "name_current": "Phase-3",
+   "name_hi": "फेज 3",
+   "x": 687.58,
+   "y": 419.43,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "PH1": {
+   "name_dmrc_web": "Phase-1",
+   "name_current": "Phase-1",
+   "name_hi": "फेज 1",
+   "x": 789.02,
+   "y": 341.71,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "SUL": {
+   "name_dmrc_web": "Sector 42-43",
+   "name_current": "Sector 42-43",
+   "name_hi": "सेक्टर 42-43",
+   "x": 853.66,
+   "y": 341.71,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "S53": {
+   "name_dmrc_web": "Sector 53-54",
+   "name_current": "Sector 53-54",
+   "name_hi": "सेक्टर 53-54",
+   "x": 853.66,
+   "y": 271.37,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "AIT": {
+   "name_dmrc_web": "Sector 54 Chowk",
+   "name_current": "Sector 54 Chowk",
+   "name_hi": "सेक्टर 54 चौक",
+   "x": 853.66,
+   "y": 225.61,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  },
+  "S55": {
+   "name_dmrc_web": "Sector 55-56",
+   "name_current": "Sector 55-56",
+   "name_hi": "सेक्टर 55-56",
+   "x": 853.66,
+   "y": 179.85,
+   "interchange": false,
+   "lines": [
+    "Gurgoan"
+   ],
+   "gates_shut_requested": false,
+   "name_as_listed": null
+  }
+ }
+}

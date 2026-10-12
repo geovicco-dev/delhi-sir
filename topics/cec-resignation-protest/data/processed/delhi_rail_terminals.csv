@@ -1,0 +1,8 @@
+code,name,lon,lat,status_10oct,km_to_jantar_mantar,nearest_metro,nearest_metro_km,nearest_metro_gates_shut
+NDLS,NEW DELHI,77.22000399999999,28.642314,arrivals_cancelled_04-14,1.7,New Delhi,0.3,True
+NZM,DELHI H NIZAMUDDIN,77.254249,28.587329999999998,arrivals_cancelled_04-14,5.8,Sarai Kale Khan - Nizamuddin,0.32,True
+TKJ,TILAK BRIDGE,77.237995,28.627633,some_trains_cancelled,2.1,ITO,0.3,True
+DLI,OLD DELHI,77.228356,28.661815999999998,normal,4.0,Chandni Chowk,0.42,False
+ANVT,ANAND VIHAR TRM,77.31521255,28.650503565399998,normal,10.0,Anand Vihar (Blue Line),0.41,False
+DEE,DELHI SARAI ROHILLA,77.187106,28.662992,normal,4.9,Shastri Nagar,0.94,False
+DEC,DELHI CANTT,77.116577,28.613534,normal,9.9,Naraina Vihar,2.28,False
